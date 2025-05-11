@@ -1,0 +1,1001 @@
+Id,Company,Location_HQ,Country,Laid_Off,Date_layoffs,Percentage,Company_Size_before_Layoffs,Company_Size_after_Layoffs,Industry,Stage,Money_Raised_in__mil
+1,&Open,"San Francisco",USA,400,2022-11-10,30.00,1333,933,Consumer,Unknown,1500
+2,"Akili Labs",Dublin,Ireland,130,2023-03-21,10.00,1300,1170,HR,Unknown,131
+3,"Akili Labs",Karlsruhe,Germany,65,2023-01-30,13.00,500,435,Retail,"Series C",205
+4,Alameda,Alameda,USA,40,2020-04-05,25.00,160,120,Aerospace,Unknown,100
+5,AlayaCare,"Belo Horizonte",Brazil,227,2022-10-20,12.00,1892,1665,Marketing,"Series C",127
+6,AlayaCare,"San Francisco Bay Area",USA,70,2022-08-31,10.00,700,630,Finance,Post-IPO,1300
+7,&Open,"San Luis Obispo",USA,400,2022-10-26,15.00,2667,2267,Fitness,Post-IPO,114
+8,Albert,London,"United Kingdom",138,2022-02-10,12.00,1150,1012,Other,"Series D",1000
+9,#Paid,Chicago,USA,81,2023-04-17,15.00,540,459,Finance,"Series D",304
+10,#Paid,"New York City",USA,27,2022-12-07,18.00,150,123,Finance,"Series C",115
+11,Albert,"New York City",USA,115,2022-08-02,37.00,311,196,Security,Post-IPO,342
+12,Alice,"New York City",USA,110,2022-11-06,5.00,2200,2090,Security,Post-IPO,30
+13,"10X Genomics",Bengaluru,India,130,2022-10-12,75.00,173,43,Education,"Series A",17
+14,Alice,Stockholm,Sweden,600,2023-01-23,6.00,10000,9400,Media,Post-IPO,2100
+15,"10X Genomics",London,"United Kingdom",480,2022-07-13,30.00,2080,1600,Transportation,Post-IPO,629
+16,"AliExpress Russia","New York City",USA,70,2020-05-14,10.00,700,630,Marketing,Acquired,116
+17,"AliExpress Russia","New York City",USA,115,2022-08-02,37.00,311,196,Security,Post-IPO,342
+18,1stdibs,Boston,USA,340,2020-04-07,53.00,642,302,Healthcare,Post-IPO,438
+19,1stdibs,"San Francisco Bay Area",USA,35,2020-04-02,19.00,184,149,HR,"Series E",114
+20,Auckland,Auckland,"New Zealand",200,2023-07-28,31.00,645,445,Transportation,Unknown,46
+21,23andMe,Denver,USA,67,2023-07-19,24.00,279,212,Finance,"Series B",111
+22,23andMe,Raleigh,USA,100,2023-06-12,12.00,833,733,Product,"Series F",469
+23,23andMe,"Sao Paulo",Brazil,355,2023-03-01,6.00,5917,5562,Food,Subsidiâ€¦,2100
+24,Audible,Boston,USA,60,2020-04-03,13.00,462,402,Retail,"Series D",97
+25,Audible,"San Jose",USA,360,2023-09-06,10.00,3600,3240,Media,Post-IPO,208
+26,AudioCodes,Bengaluru,India,4,2023-07-10,100.00,4,0,Education,"Series A",17
+27,AudioCodes,"New York City",USA,80,2022-12-15,31.00,258,178,Other,"Series C",379
+28,AudioCodes,"New York City",USA,225,2023-12-13,11.00,2045,1820,Retail,Post-IPO,97
+29,23andMe,Singapore,Singapore,65,2022-12-20,24.00,271,206,Food,"Series E",50
+30,AudioCodes,"Washington DC",USA,63,2023-05-18,14.00,450,387,Finance,"Series D",621
+31,2TM,"New Delhi",India,30,2022-10-21,30.00,100,70,Healthcare,"Series A",4
+32,Augury,Florianopolis,Brazil,70,2022-07-13,18.00,389,319,Retail,Unknown,23
+33,2TM,Portland,USA,40,2022-09-06,33.00,121,81,Healthcare,"Series B",42
+34,Augury,Madison,USA,100,2023-03-14,10.00,1000,900,Retail,"Series E",581
+35,2TM,Toronto,Canada,30,2022-06-20,55.00,55,25,Retail,"Series A",27
+36,Augury,Milwaukee,USA,200,2024-01-02,100.00,200,NULL,Travel,Unknown,26
+37,Alteryx,"Mountain View",USA,340,2023-05-12,30.00,1133,793,Transportation,"Series D",2100
+38,2TM,Vienna,Austria,270,2022-06-24,27.00,1000,730,Crypto,"Series C",546
+39,Augury,"San Francisco Bay Area",USA,100,2023-01-11,6.00,1667,1567,Security,"Private Equity â€¦",205
+40,Alteryx,"San Francisco Bay Area",USA,20,2023-10-11,20.00,100,80,AI,"Series B",86
+41,54gene,"Sao Paulo",Brazil,100,2022-09-01,15.00,667,567,Crypto,Unknown,250
+42,"Alto Pharmacy",Bengaluru,India,100,2022-05-30,10.00,1000,900,Consumer,"Series E",375
+43,54gene,Stockholm,Sweden,70,2022-09-15,15.00,467,397,Media,Post-IPO,126
+44,6sense,Bengaluru,India,130,2022-10-12,75.00,173,43,Education,"Series A",17
+45,"Alto Pharmacy","New York City",USA,500,2020-05-07,100.00,500,NULL,Transportation,Acquired,11
+46,6sense,"Hong Kong","Hong Kong",30,2022-07-05,8.00,375,345,Crypto,Unknown,300
+47,Amazon,Austin,USA,56,2023-02-01,28.00,200,144,Healthcare,"Series C",215
+48,7Shifts,Austin,USA,1000,2024-05-13,8.00,12500,11500,HR,Acquired,5
+49,Amazon,Boston,USA,27,2022-07-05,7.00,386,359,Security,"Series A",583
+50,7Shifts,"Los Angeles",USA,60,2024-03-28,20.00,300,240,Food,"Series C",64
+51,Amazon,Gurugram,India,25,2023-01-05,15.00,167,142,Retail,"Series B",62
+52,Amazon,"San Francisco Bay Area",USA,48,2022-12-01,16.00,300,252,Product,"Series D",212
+53,Amazon,Seattle,USA,130,2023-01-25,15.00,867,737,Legal,"Series D",171
+54,7shifts,"Menlo Park",USA,150,2023-06-26,7.00,2143,1993,Finance,Post-IPO,5600
+55,7shifts,"San Francisco Bay Area",USA,100,2023-08-08,10.00,1000,900,Healthcare,Post-IPO,82
+56,Amazon,Seattle,USA,131,2023-09-26,33.00,397,266,Logistics,"Series D",263
+57,8x8,Boston,USA,170,2023-04-07,92.00,185,15,Healthcare,Post-IPO,409
+58,"American Robotics",Chicago,USA,54,2022-07-14,15.00,360,306,HR,"Series C",115
+59,Bengaluru,Bengaluru,India,150,2024-08-31,75.00,200,50,Food,Unknown,458
+60,8x8,Dover,USA,76,2022-11-16,23.00,330,254,Other,"Series B",56
+61,8x8,"Frankfurt am Main",Germany,200,2023-01-31,4.00,5000,4800,Data,Post-IPO,344
+62,"American Robotics",Gurugram,India,100,2023-03-30,75.00,133,33,Consumer,"Series B",50
+63,8x8,Stockholm,Sweden,300,2022-10-31,10.00,3000,2700,Healthcare,"Series D",568
+64,Amount,Austin,USA,180,2022-12-15,13.00,1385,1205,Retail,Post-IPO,224
+65,Amount,"Sao Paulo",Brazil,28,2022-07-22,22.00,127,99,Finance,"Series A",15
+66,Amperity,Boston,USA,160,2022-09-13,75.00,213,53,Healthcare,Post-IPO,445
+67,99,"San Francisco",USA,85,2022-07-01,100.00,85,NULL,Travel,"Series B",26
+68,Amperity,"Washington DC",USA,90,2022-06-22,35.00,257,167,Security,Post-IPO,410
+69,99,Sydney,Australia,20,2022-07-26,6.00,333,313,Crypto,"Series C",279
+70,Amplero,Boston,USA,30,2020-03-27,20.00,150,120,Food,"Series C",60
+71,Abra,Nairobi,Kenya,54,2022-08-11,9.00,600,546,Retail,"Series A",42
+72,Abra,"San Francisco Bay Area",USA,150,2022-04-28,19.00,789,639,Education,"Series D",130
+73,Absci,Boston,USA,100,2023-05-31,25.00,400,300,Other,"Series B",216
+74,Aura,Boston,USA,110,2022-06-15,25.00,440,330,Legal,"Series D",213
+75,Amplero,Munich,Germany,100,2020-04-02,25.00,400,300,Fitness,"Series D",109
+76,Aura,"Tel Aviv",Israel,20,2022-08-08,5.00,400,380,Marketing,Post-IPO,76
+77,Bengaluru,Bengaluru,India,160,2023-05-12,35.00,457,297,Finance,Acquired,21
+78,Absci,Seattle,USA,99,2024-01-08,38.00,260,161,Logistics,"Series D",263
+79,"Aurora Solar",Dover,USA,30,2024-06-05,10.00,300,270,Crypto,Unknown,651
+80,Bengaluru,Bengaluru,India,170,2022-06-30,100.00,170,NULL,Education,Seed,3
+81,Acast,"San Francisco Bay Area",USA,180,2022-11-15,9.00,2000,1820,Other,Post-IPO,453
+82,Acast,"Tel Aviv",Israel,17,2022-10-25,50.00,34,17,HR,Seed,15
+83,Bengaluru,Bengaluru,India,170,2022-06-30,100.00,170,0,Education,Seed,3
+84,"Aurora Solar",Toronto,Canada,20,2024-01-30,10.00,200,180,Media,Acquired,117
+85,Acko,London,"United Kingdom",451,2020-03-27,85.00,531,80,Aerospace,Unknown,NULL
+86,Austin,Austin,USA,12,2024-01-25,30.00,40,28,Marketing,"Series B",27
+87,Acko,Sydney,Australia,60,2024-02-21,17.00,353,292,Retail,Unknown,30
+88,Bengaluru,Bengaluru,India,170,2023-06-17,80.00,213,43,Healthcare,"Series A",24
+89,Ada,"Los Angeles",USA,84,2022-10-27,17.00,494,410,Finance,"Series B",277
+90,Austin,Austin,USA,15,2022-08-24,20.00,75,60,Finance,"Series A",24
+91,Ada,"San Francisco Bay Area",USA,23,2022-07-26,30.00,77,54,Recruiting,"Series A",22
+92,Austin,Austin,USA,16,2020-03-16,100.00,16,NULL,Support,Seed,6
+93,Bengaluru,Bengaluru,India,180,2022-06-07,15.00,1200,1020,Finance,Unknown,172
+94,"Ada Support","San Francisco",USA,200,2022-04-19,10.00,2000,1800,Finance,Post-IPO,665
+95,Amplitude,"Tel Aviv",Israel,20,2023-05-04,28.00,71,51,Retail,"Series A",34
+96,Austin,Austin,USA,16,2020-03-16,100.00,16,0,Support,Seed,6
+97,"Ada Support","Sao Paulo",Brazil,70,2020-04-13,10.00,700,630,Finance,"Series B",120
+98,Amplitude,"Tel Aviv",Israel,30,2023-05-04,10.00,300,270,Finance,Unknown,100
+99,Austin,Austin,USA,19,2023-03-30,25.00,76,57,Finance,"Series A",24
+100,Bengaluru,Bengaluru,India,180,2022-06-27,4.00,4500,4320,Retail,Unknown,NULL
+101,Amsterdam,Amsterdam,Netherlands,35,2023-10-18,10.00,350,315,Other,"Series A",64
+102,Austin,Austin,USA,23,2024-06-17,77.00,30,7,Insurance,"Series A",34
+103,Bengaluru,Bengaluru,India,180,2024-04-29,10.00,1800,1620,Transportation,"Series J",3800
+104,Amsterdam,Amsterdam,Netherlands,90,2024-03-05,20.00,450,360,Other,"Series C",1
+105,"Adaptive Biotechnology",Boston,USA,100,2022-06-01,6.00,1667,1567,Security,"Series F",750
+106,Bengaluru,Bengaluru,India,190,2022-09-16,20.00,950,760,Finance,"Series C",140
+107,Austin,Austin,USA,25,2023-01-10,4.00,625,600,Retail,Unknown,383
+108,"Adaptive Biotechnology","San Francisco Bay Area",USA,47,2020-09-29,6.00,783,736,Healthcare,"Series D",356
+109,Amsterdam,Amsterdam,Netherlands,225,2020-06-12,25.00,900,675,Transportation,Post-IPO,NULL
+110,Bengaluru,Bengaluru,India,200,2020-04-08,28.00,714,514,Retail,"Series D",215
+111,Bengaluru,Bengaluru,India,200,2021-02-22,40.00,500,300,Transportation,"Series D",214
+112,Austin,Austin,USA,30,2020-11-09,50.00,60,30,Retail,Unknown,4
+113,Addepar,"New York City",USA,15,2023-04-04,20.00,75,60,Finance,"Series B",37
+114,Amsterdam,Amsterdam,Netherlands,260,2024-09-08,75.00,347,87,Other,Acquired,64
+115,Austin,Austin,USA,35,2022-08-18,17.00,206,171,Healthcare,"Series C",215
+116,Addepar,"San Francisco",USA,680,2023-02-16,10.00,6800,6120,Sales,Post-IPO,536
+117,"Anchorage Digital",Minneapolis,USA,15,2023-03-14,30.00,50,35,Finance,"Series A",16
+118,Austin,Austin,USA,38,2020-03-23,22.00,173,135,Travel,"Series B",36
+119,AdRoll,Boston,USA,200,2020-03-27,16.67,1200,1000,Data,"Series E",430
+120,"Anchorage Digital",Portland,USA,1300,2023-01-24,17.00,7647,6347,Travel,Post-IPO,834
+121,Austin,Austin,USA,52,2020-03-25,28.00,186,134,Marketing,"Series C",48
+122,Andela,Seattle,USA,20,2020-04-27,20.00,100,80,"Real Estate","Series A",24
+123,AdRoll,"San Francisco",USA,92,2020-04-08,33.00,279,187,Transportation,"Series C",95
+124,Austin,Austin,USA,56,2023-02-01,28.00,200,144,Healthcare,"Series C",215
+125,Austin,Austin,USA,62,2023-01-19,9.00,689,627,Legal,Post-IPO,233
+126,Andela,Sydney,Australia,60,2020-05-04,30.00,200,140,HR,"Series B",106
+127,AEye,Bengaluru,India,150,2023-09-26,30.00,500,350,Food,Unknown,458
+128,AEye,"Tel Aviv",Israel,70,2023-05-03,33.00,212,142,Healthcare,"Series D",185
+129,"Ann Arbor","Ann Arbor",USA,40,2020-04-09,32.00,125,85,Support,"Series B",59
+130,Anodot,Chicago,USA,60,2022-08-11,8.00,750,690,Logistics,"Series D",201
+131,Austin,Austin,USA,65,2020-03-31,37.00,176,111,Logistics,"Series D",69
+132,Affirm,"New York City",USA,275,2023-01-18,20.00,1375,1100,Transportation,Post-IPO,NULL
+133,Austin,Austin,USA,73,2023-11-01,50.00,146,73,HR,"Series B",106
+134,Affirm,"San Francisco",USA,254,2022-12-08,20.00,1270,1016,Product,"Series F",1400
+135,Anodot,Columbus,USA,16,2022-06-17,20.00,80,64,Security,"Series B",49
+136,Austin,Austin,USA,75,2020-04-03,7.00,1071,996,Logistics,"Series B",35
+137,Anodot,Nairobi,Kenya,54,2022-08-11,9.00,600,546,Retail,"Series A",42
+138,AgentSync,"New York City",USA,225,2023-12-13,11.00,2045,1820,Retail,Post-IPO,97
+139,Austin,Austin,USA,90,2020-06-23,90.00,100,10,Finance,"Series C",103
+140,"Antidote Health","San Francisco Bay Area",USA,2000,2023-01-31,7.00,28571,26571,Finance,Post-IPO,216
+141,AgentSync,"San Francisco Bay Area",USA,170,2023-07-11,30.00,567,397,Data,Post-IPO,409
+142,Austin,Austin,USA,120,2020-03-30,25.00,480,360,Energy,"Series D",423
+143,"Agoura Hills","Agoura Hills",USA,123,2023-01-11,11.00,1118,995,Finance,"Series F",565
+144,"Antidote Health",Toronto,Canada,34,2022-11-17,19.00,179,145,Other,"Series B",73
+145,Austin,Austin,USA,120,2022-10-21,10.00,1200,1080,Sales,"Private Equity",138
+146,"Apartment List",Lagos,Nigeria,23,2022-09-02,5.00,460,437,Finance,"Series B",91
+147,Austin,Austin,USA,120,2022-10-21,10.00,1200,1080,Sales,"Private Equity â€¦",138
+148,"Apartment List","San Francisco",USA,64,2022-10-20,46.00,139,75,"Real Estate","Series C",151
+149,"App Annie",Berlin,Germany,15,2020-04-24,25.00,60,45,Travel,"Series B",30
+150,Ahead,Austin,USA,30,2020-11-09,50.00,60,30,Retail,Unknown,4
+151,Ahead,"San Francisco",USA,250,2022-06-02,8.00,3125,2875,Healthcare,"Series D",522
+152,Austin,Austin,USA,180,2022-12-15,13.00,1385,1205,Retail,Post-IPO,224
+153,Bengaluru,Bengaluru,India,200,2022-05-05,3.00,6667,6467,Education,"Series E",292
+154,"App Annie","San Francisco Bay Area",USA,45,2020-04-14,35.00,129,84,Consumer,"Series B",90
+155,Austin,Austin,USA,350,2024-02-27,30.00,1167,817,Consumer,Post-IPO,313
+156,Bengaluru,Bengaluru,India,200,2023-01-20,8.00,2500,2300,Healthcare,Acquired,192
+157,AppFolio,Gurugram,India,400,2023-07-27,67.00,597,197,Food,Acquired,39
+158,Austin,Austin,USA,1000,2024-05-13,8.00,12500,11500,HR,Acquired,5
+159,Bengaluru,Bengaluru,India,200,2023-02-20,30.00,667,467,Other,"Series B",79
+160,Austin,Austin,USA,2200,2023-03-22,15.00,14667,12467,HR,Acquired,5
+161,AppFolio,"New York City",USA,130,2023-06-14,7.00,1857,1727,Consumer,Post-IPO,455
+162,AppLovin,"San Francisco Bay Area",USA,48,2022-08-09,30.00,160,112,Retail,"Series C",114
+163,Bengaluru,Bengaluru,India,200,2023-12-20,15.00,1333,1133,Consumer,"Series H",2
+164,Austin,Austin,USA,6000,2024-03-25,5.00,120000,114000,Hardware,Post-IPO,NULL
+165,AppLovin,Vancouver,Canada,400,2022-08-09,30.00,1333,933,Marketing,"Series C",300
+166,Bengaluru,Bengaluru,India,200,2023-12-20,15.00,1333,1133,Consumer,"Series H",1700
+167,ApplyBoard,Berlin,Germany,31,2023-01-18,31.00,100,69,Healthcare,Unknown,47
+168,Autograph,Denver,USA,172,2023-05-24,12.00,1433,1261,Education,"Series F",643
+169,ApplyBoard,Reno,USA,104,2023-01-05,19.00,547,443,Finance,"Series E",646
+170,Autograph,"Kansas City",USA,80,2023-10-16,3.00,2667,2587,Finance,"Series H",537
+171,Bengaluru,Bengaluru,India,250,2022-12-08,3.00,8333,8083,Food,Unknown,NULL
+172,Bengaluru,Bengaluru,India,251,2023-05-05,15.00,1673,1422,Retail,"Series F",1100
+173,Bengaluru,Bengaluru,India,300,2022-03-15,50.00,600,300,Retail,"Series B",62
+174,Aqgromalin,"Los Angeles",USA,200,2022-08-04,17.00,1176,976,Consumer,Unknown,652
+175,"Automation Anything","Los Angeles",USA,57,2020-04-24,36.00,158,101,Transportation,"Series B",88
+176,Bengaluru,Bengaluru,India,300,2023-04-05,30.00,1000,700,Food,Unknown,382
+177,Aqgromalin,"San Francisco Bay Area",USA,12,2022-06-30,5.00,240,228,Crypto,"Series C",106
+178,"Automation Anything",Stamford,USA,160,2020-04-29,8.00,2000,1840,Travel,Acquired,229
+179,"Aqua Security",Boston,USA,59,2020-04-02,25.00,236,177,HR,Acquired,65
+180,"Aqua Security",Boston,USA,100,2020-03-27,20.00,500,400,Transportation,Acquired,107
+181,Bengaluru,Bengaluru,India,300,2023-08-02,10.00,3000,2700,Other,"Series D",435
+182,"Aqua Security","Salt Lake City",USA,75,2023-09-25,7.00,1071,996,Other,"Series E",170
+183,Bengaluru,Bengaluru,India,350,2020-07-27,5.00,7000,6650,Food,"Series I",1600
+184,AvantStay,Boston,USA,65,2022-11-08,50.00,130,65,Healthcare,"Series B",257
+185,"Aqua Security","San Francisco",USA,115,2023-01-19,35.00,329,214,Other,"Series B",153
+186,AvantStay,Phoenix,USA,1500,2022-11-18,8.00,18750,17250,Transportation,Post-IPO,1600
+187,Bengaluru,Bengaluru,India,350,2022-11-07,10.00,3500,3150,Education,"Series H",838
+188,Avidbots,Bengaluru,India,29,2023-04-27,29.00,100,71,Finance,Seed,5
+189,"Aqua Security","Tel Aviv",Israel,100,2022-11-02,10.00,1000,900,Security,"Series C",92
+190,Bengaluru,Bengaluru,India,380,2023-01-20,6.00,6333,5953,Food,Unknown,NULL
+191,Ahmedabad,Ahmedabad,India,500,2020-05-15,50.00,1000,500,Finance,Unknown,200
+192,Avidbots,"San Francisco Bay Area",USA,400,2023-02-16,20.00,2000,1600,Other,Acquired,62
+193,Bengaluru,Bengaluru,India,400,2024-01-25,7.00,5714,5314,Food,Unknown,4
+194,Archipelago,Philadelphia,USA,100,2023-03-09,2.00,5000,4900,Food,"Series H",3400
+195,Airbnb,Boulder,USA,4,2020-03-18,20.00,20,16,Marketing,Seed,4
+196,Bengaluru,Bengaluru,India,424,2022-05-18,7.00,6057,5633,Education,"Series E",292
+197,Archipelago,Toronto,Canada,42,2023-08-04,7.00,600,558,Education,"Series E",234
+198,Airbnb,Montreal,Canada,62,2020-05-04,15.00,413,351,Other,"Series B",257
+199,Avo,Nairobi,Kenya,30,2022-08-02,10.00,300,270,Logistics,"Series B",26
+200,Bengaluru,Bengaluru,India,450,2020-05-19,15.00,3000,2550,Retail,"Series D",157
+201,"Argo AI",Bengaluru,India,150,2022-06-18,3.00,5000,4850,Education,"Series H",838
+202,Avo,"New York City",USA,170,2022-06-02,25.00,680,510,Finance,"Series E",286
+203,Airmeet,Milpitas,USA,99,2023-04-05,13.00,762,663,Data,Post-IPO,311
+204,"Argo AI","San Francisco Bay Area",USA,32,2022-10-19,30.00,107,75,Finance,"Series B",177
+205,Bengaluru,Bengaluru,India,500,2023-01-16,20.00,2500,2000,Consumer,"Series H",1700
+206,Away,Fresno,USA,900,2023-06-14,100.00,900,0,Crypto,"Series B",84
+207,Airmeet,"San Francisco Bay Area",USA,80,2023-02-28,8.00,1000,920,Consumer,Post-IPO,557
+208,Away,"San Francisco",USA,90,2023-07-26,20.00,450,360,Crypto,Unknown,1500
+209,Bengaluru,Bengaluru,India,600,2020-05-26,23.00,2609,2009,Transportation,Post-IPO,24700
+210,Away,"San Francisco",USA,600,2020-04-15,35.00,1714,1114,"Real Estate","Series E",1500
+211,Argyle,"New York City",USA,68,2022-07-18,7.00,971,903,Crypto,Unknown,423
+212,Bengaluru,Bengaluru,India,600,2022-05-21,75.00,800,200,Healthcare,"Series C",97
+213,Away,"Sao Paulo",Brazil,11,2020-04-08,10.00,110,99,Consumer,"Series B",16
+214,Airtable,Berlin,Germany,200,2022-11-04,100.00,200,0,Other,Acquired,5
+215,Bengaluru,Bengaluru,India,800,2020-04-21,9.24,8657,7857,Food,"Series I",1600
+216,Argyle,"San Francisco",USA,23,2022-10-20,11.00,209,186,Product,"Series C",203
+217,"Axios Media",Portland,USA,375,2024-06-18,5.00,7500,7125,Finance,Post-IPO,400
+218,Bengaluru,Bengaluru,India,800,2020-05-04,16.00,5000,4200,Fitness,"Series D",404
+219,Airtable,"New York City",USA,130,2022-11-30,7.00,1857,1727,Food,"Series B",850
+220,Armis,Bengaluru,India,45,2022-11-30,5.00,900,855,Education,"Series B",118
+221,Bengaluru,Bengaluru,India,1000,2022-04-07,17.00,5882,4882,Education,"Series H",838
+222,Airtable,"San Francisco Bay Area",USA,130,2023-12-14,29.00,450,320,Finance,"Series E",1300
+223,Airtable,Seattle,USA,30,2023-06-26,5.00,600,570,Logistics,"Series E",1100
+224,Bengaluru,Bengaluru,India,1100,2020-05-18,14.00,7857,6757,Food,"Series I",1600
+225,Aya,"San Francisco Bay Area",USA,250,2020-08-11,25.00,1000,750,Consumer,Unknown,2
+226,Aya,"Sao Paulo",Brazil,200,2022-05-26,13.00,1538,1338,Retail,Post-IPO,365
+227,Bengaluru,Bengaluru,India,1100,2024-01-08,5.00,22000,20900,Retail,Acquired,13
+228,B8ta,Sacramento,USA,5,2020-03-31,14.00,36,31,Marketing,"Series B",26
+229,Airtasker,"Los Angeles",USA,40,2022-12-14,10.00,400,360,Food,"Series C",64
+230,Bengaluru,Bengaluru,India,1400,2020-05-20,35.00,4000,2600,Transportation,"Series J",3800
+231,B8ta,"San Francisco Bay Area",USA,240,2020-04-02,3.00,8000,7760,Construction,"Series D",1200
+232,Bengaluru,Bengaluru,India,2500,2022-10-12,5.00,50000,47500,Education,"Private Equity â€¦",NULL
+233,Airtasker,"Los Angeles",USA,80,2023-10-06,5.00,1600,1520,Finance,"Private Equity â€¦",54
+234,"Back Market","Los Angeles",USA,144,2022-11-09,22.00,655,511,Travel,"Private Equity â€¦",686
+235,Berkeley,Berkeley,USA,25,2022-06-02,25.00,100,75,Consumer,"Series C",197
+236,"Back Market","New York City",USA,120,2022-07-13,40.00,300,180,Logistics,"Series C",336
+237,Airtime,"Los Angeles",USA,40,2022-08-03,4.00,1000,960,Food,Post-IPO,122
+238,Berkeley,Berkeley,USA,34,2023-09-11,40.00,85,51,Food,Unknown,94
+239,Baltimore,Baltimore,USA,50,2023-06-06,9.00,556,506,Security,"Series D",364
+240,Berkeley,Berkeley,USA,134,2023-07-06,15.00,893,759,Food,"Series D",711
+241,Berkeley,Berkeley,USA,150,2022-04-28,19.00,789,639,Education,"Series D",130
+242,Baltimore,Baltimore,USA,100,2023-05-09,14.00,714,614,Security,Acquired,154
+243,Bangkok,Bangkok,Thailand,55,2022-09-08,8.00,688,633,Retail,Unknown,120
+244,Banxa,Chicago,USA,500,2022-08-08,15.00,3333,2833,Retail,Post-IPO,NULL
+245,Banxa,Portland,USA,41,2021-09-14,90.00,46,5,Education,"Series B",12
+246,Berlin,Berlin,Germany,15,2020-04-24,25.00,60,45,Travel,"Series B",30
+247,Berlin,Berlin,Germany,18,2022-06-29,30.00,60,42,Other,"Series B",25
+248,Barcelona,Barcelona,Spain,250,2023-01-30,6.00,4167,3917,Food,Acquired,NULL
+249,Berlin,Berlin,Germany,18,2022-07-04,15.00,120,102,Other,"Series A",90
+250,"Basis Technologies",Jakarta,Indonesia,200,2022-12-14,30.00,667,467,Retail,Post-IPO,NULL
+251,"Basis Technologies","New York City",USA,35,2023-04-20,12.00,292,257,HR,"Series D",192
+252,Berlin,Berlin,Germany,24,2023-07-03,10.00,240,216,Media,Acquired,8
+253,Berlin,Berlin,Germany,25,2022-11-28,10.00,250,225,Other,"Series D",87
+254,Berlin,Berlin,Germany,31,2023-01-18,31.00,100,69,Healthcare,Unknown,47
+255,Berlin,Berlin,Germany,40,2022-12-07,10.00,400,360,Retail,Unknown,NULL
+256,Berlin,Berlin,Germany,40,2023-09-12,20.00,200,160,"Real Estate",Unknown,71
+257,Berlin,Berlin,Germany,43,2022-10-21,33.00,130,87,Finance,Unknown,30
+258,Berlin,Berlin,Germany,45,2022-05-25,20.00,225,180,Finance,"Series B",42
+259,Berlin,Berlin,Germany,50,2022-05-25,25.00,200,150,Finance,"Series B",53
+260,Berlin,Berlin,Germany,50,2022-09-14,5.00,1000,950,Other,"Series D",604
+261,Berlin,Berlin,Germany,51,2020-04-01,25.00,204,153,Media,"Series A",9
+262,Berlin,Berlin,Germany,55,2022-09-01,15.00,367,312,Fitness,Unknown,95
+263,Berlin,Berlin,Germany,59,2022-03-30,40.00,148,89,Data,"Series B",40
+264,Berlin,Berlin,Germany,59,2022-09-14,30.00,197,138,Marketing,"Series B",137
+265,Berlin,Berlin,Germany,60,2022-11-11,8.00,750,690,Logistics,"Series D",593
+266,Berlin,Berlin,Germany,60,2022-12-15,20.00,300,240,HR,"Series B",76
+267,Berlin,Berlin,Germany,60,2023-02-14,100.00,60,NULL,Retail,Unknown,2
+268,Berlin,Berlin,Germany,60,2023-02-14,100.00,60,0,Retail,Unknown,2
+269,Armis,"Palo Alto",USA,30,2023-01-23,17.00,176,146,Security,"Series B",97
+270,Berlin,Berlin,Germany,62,2022-12-09,12.00,517,455,Marketing,"Series D",442
+271,Arrival,Chicago,USA,130,2023-02-27,25.00,520,390,Finance,Unknown,283
+272,Berlin,Berlin,Germany,70,2022-09-23,15.00,467,397,Finance,"Series B",150
+273,Arrival,Dallas,USA,41,2022-06-24,14.00,293,252,Finance,"Series C",137
+274,Berlin,Berlin,Germany,71,2023-04-28,4.00,1775,1704,Finance,"Series E",1700
+275,Berlin,Berlin,Germany,75,2020-07-27,72.00,104,29,Finance,"Series B",60
+276,Arrival,London,"United Kingdom",2500,2023-08-22,11.00,22727,20227,Food,"Series E",1800
+277,Berlin,Berlin,Germany,80,2023-01-25,7.00,1143,1063,Transportation,"Series D",646
+278,Arrival,Paris,France,350,2022-05-09,50.00,700,350,Other,"Series C",293
+279,Baton,"Sao Paulo",Brazil,47,2022-08-10,10.00,470,423,Education,"Series B",40
+280,Arrival,"San Francisco Bay Area",USA,284,2023-01-17,3.00,9467,9183,Other,Post-IPO,1300
+281,Baton,Shanghai,China,180,2022-04-21,9.00,2000,1820,Consumer,"Series E",917
+282,Berlin,Berlin,Germany,80,2024-01-08,67.00,119,39,Other,"Series B",138
+283,Arrival,"Santa Barbara",USA,149,2023-08-17,9.00,1656,1507,"Real Estate",Post-IPO,30
+284,"Beam Benefits",Berlin,Germany,62,2022-12-09,12.00,517,455,Marketing,"Series D",442
+285,Berlin,Berlin,Germany,87,2021-02-03,20.00,435,348,Food,Acquired,39
+286,Berlin,Berlin,Germany,90,2020-10-14,17.00,529,439,Travel,"Series E",656
+287,"Beam Benefits","San Jose",USA,177,2023-03-02,3.00,5900,5723,Security,Post-IPO,148
+288,"Arrive Logistics","San Francisco",USA,58,2020-04-14,30.00,193,135,HR,"Series B",59
+289,Bejing,Bejing,China,275,2023-01-06,20.00,1375,1100,Crypto,Unknown,2
+290,Bejing,Bejing,China,300,2022-06-28,30.00,1000,700,Crypto,Unknown,2
+291,"Belo Horizonte","Belo Horizonte",Brazil,100,2020-04-06,20.00,500,400,Marketing,"Series A",1
+292,"Arrive Logistics","San Francisco Bay Area",USA,250,2020-03-30,30.00,833,583,Consumer,"Series F",423
+293,Artsy,"Los Angeles",USA,181,2023-06-29,15.00,1207,1026,Healthcare,Unknown,216
+294,"Belo Horizonte","Belo Horizonte",Brazil,227,2022-10-20,12.00,1892,1665,Marketing,"Series C",127
+295,Artsy,"Tel Aviv",Israel,150,2023-08-01,75.00,200,50,Finance,"Series C",110
+296,Asana,"San Francisco Bay Area",USA,8000,2023-01-04,10.00,80000,72000,Sales,Post-IPO,65
+297,Bench,"Salt Lake City",USA,210,2020-03-31,30.00,700,490,Marketing,"Series C",89
+298,Berlin,Berlin,Germany,100,2022-06-10,10.00,1000,900,Retail,Unknown,1000
+299,Bench,"Sao Paulo",Brazil,11,2020-04-08,10.00,110,99,Consumer,"Series B",16
+300,Asana,Waterloo,Canada,90,2022-11-28,6.00,1500,1410,Education,"Series D",483
+301,Benchling,"New York City",USA,58,2023-05-10,10.00,580,522,HR,Acquired,153
+302,Astra,Austin,USA,65,2020-03-31,37.00,176,111,Logistics,"Series D",69
+303,Benchling,"Salt Lake City",USA,780,2023-10-04,14.00,5571,4791,Other,Post-IPO,400
+304,BenchSci,"Los Angeles",USA,530,2024-01-22,11.00,4818,4288,Consumer,Acquired,21
+305,BenchSci,"San Francisco Bay Area",USA,100,2024-03-12,100.00,100,0,Transportation,Unknown,86
+306,Astra,"San Francisco",USA,89,2020-04-08,45.00,198,109,Finance,"Series B",40
+307,Bend,Bend,USA,50,2022-06-06,7.00,714,664,Other,"Series D",603
+308,Astronomer,Ottawa,Canada,2300,2023-05-04,20.00,11500,9200,Retail,Post-IPO,122
+309,Benevity,Bengaluru,India,100,2023-04-07,20.00,500,400,Finance,"Series C",120
+310,Astronomer,Phoenix,USA,95,2022-12-13,10.00,950,855,Infrastructure,Post-IPO,462
+311,Benevity,"New York City",USA,60,2023-01-31,14.00,429,369,Consumer,Unknown,235
+312,Bengaluru,Bengaluru,India,4,2023-07-10,100.00,4,NULL,Education,"Series A",17
+313,Astronomer,"San Francisco",USA,126,2023-02-08,5.00,2520,2394,HR,"Series E",746
+314,Bengaluru,Bengaluru,India,4,2023-07-10,100.00,4,0,Education,"Series A",17
+315,Astronomer,"San Francisco Bay Area",USA,11000,2022-11-09,13.00,84615,73615,Consumer,Post-IPO,26000
+316,Bengaluru,Bengaluru,India,6,2020-04-02,6.00,100,94,Finance,Unknown,8
+317,At-Bay,Corvallis,USA,154,2024-01-08,28.00,550,396,Energy,Post-IPO,470
+318,At-Bay,Toronto,Canada,42,2023-08-04,7.00,600,558,Education,"Series E",234
+319,Airtime,Singapore,Singapore,22,2020-09-01,11.00,200,178,Finance,Unknown,97
+320,Atlanta,Atlanta,USA,50,2024-01-09,10.00,500,450,Marketing,Unknown,197
+321,Ajaib,"Los Angeles",USA,30,2022-07-07,18.00,167,137,Marketing,"Series B",78
+322,Atlanta,Atlanta,USA,59,2022-06-02,8.00,738,679,Logistics,"Series D",325
+323,Ajaib,"New York City",USA,30,2022-10-31,27.00,111,81,Finance,"Series B",11
+324,Atlanta,Atlanta,USA,60,2023-07-26,10.00,600,540,Other,"Series B",351
+325,Atlanta,Atlanta,USA,90,2022-06-24,23.00,391,301,Finance,"Series A",124
+326,Akamai,Bengaluru,India,75,2023-05-25,30.00,250,175,Marketing,"Series B",50
+327,Akamai,Denver,USA,75,2023-02-27,2.00,3750,3675,Data,Post-IPO,3000
+328,Atlanta,Atlanta,USA,100,2023-02-07,10.00,1000,900,Sales,Acquired,245
+329,Berlin,Berlin,Germany,100,2022-07-13,30.00,333,233,Product,"Series B",89
+330,Atlanta,Atlanta,USA,104,2023-01-12,21.00,495,391,Finance,"Series D",556
+331,Berlin,Berlin,Germany,100,2022-08-31,10.00,1000,900,Finance,Unknown,188
+332,Atlanta,Atlanta,USA,150,2020-04-09,10.00,1500,1350,Legal,"Series B",410
+333,Berlin,Berlin,Germany,100,2022-11-02,15.00,667,567,Finance,Unknown,188
+334,Atlanta,Atlanta,USA,212,2023-02-07,9.00,2356,2144,Security,Post-IPO,83
+335,Bengaluru,Bengaluru,India,15,2023-03-21,4.00,375,360,Finance,"Series C",62
+336,Berlin,Berlin,Germany,100,2022-11-03,2.50,4000,3900,Food,Post-IPO,8300
+337,Berlin,Berlin,Germany,100,2023-05-24,16.00,625,525,Food,"Series B",1000
+338,Berlin,Berlin,Germany,120,2023-05-30,20.00,600,480,Finance,"Series D",330
+339,Atlanta,Atlanta,USA,300,2023-08-14,15.00,2000,1700,Security,Post-IPO,83
+340,Berlin,Berlin,Germany,150,2023-02-23,32.00,469,319,Marketing,"Series D",442
+341,Bengaluru,Bengaluru,India,21,2024-02-09,18.00,117,96,Retail,"Series A",20
+342,Bengaluru,Bengaluru,India,29,2023-04-27,29.00,100,71,Finance,Seed,5
+343,Bengaluru,Bengaluru,India,30,2023-09-27,10.00,300,270,Finance,"Series C",137
+344,Bengaluru,Bengaluru,India,30,2024-08-03,5.00,600,570,Marketing,"Series D",222
+345,Atlanta,Atlanta,USA,950,2022-06-09,25.00,3800,2850,Security,"Series C",926
+346,BigCommerce,"San Francisco",USA,500,2023-02-08,19.00,2632,2132,Finance,Post-IPO,1500
+347,Atlas,Montreal,Canada,106,2023-08-01,4.00,2650,2544,Education,"Series D",389
+348,Berlin,Berlin,Germany,156,2023-01-30,4.00,3900,3744,Food,Post-IPO,NULL
+349,Bengaluru,Bengaluru,India,36,2022-11-09,10.00,360,324,Healthcare,"Series A",20
+350,Berlin,Berlin,Germany,180,2022-08-23,16.00,1125,945,Transportation,"Series D",646
+351,Bengaluru,Bengaluru,India,39,2023-06-15,90.00,43,4,Education,"Series A",17
+352,Atlas,"San Diego",USA,94,2024-01-05,13.00,723,629,Healthcare,Post-IPO,899
+353,BigCommerce,"San Francisco Bay Area",USA,1100,2022-11-30,30.00,3667,2567,Crypto,Unknown,134
+354,Berlin,Berlin,Germany,200,2022-11-04,100.00,200,NULL,Other,Acquired,5
+355,Bengaluru,Bengaluru,India,40,2020-06-17,25.00,160,120,Finance,"Private Equity",582
+356,Berlin,Berlin,Germany,200,2022-11-04,100.00,200,0,Other,Acquired,5
+357,Atlassian,Boston,USA,60,2022-12-08,5.00,1200,1140,Marketing,Post-IPO,115
+358,Berlin,Berlin,Germany,300,2021-12-22,6.98,4300,4000,Food,Post-IPO,NULL
+359,BigPanda,Berlin,Germany,150,2023-02-23,32.00,469,319,Marketing,"Series D",442
+360,Atlassian,Kiel,Germany,21,2023-01-24,28.00,75,54,Product,"Series A",41
+361,Bengaluru,Bengaluru,India,40,2020-06-17,25.00,160,120,Finance,"Private Equity â€¦",582
+362,Berlin,Berlin,Germany,300,2022-05-24,50.00,600,300,Food,"Series C",1300
+363,Bengaluru,Bengaluru,India,40,2023-01-06,5.00,800,760,Transportation,"Series D",214
+364,AtoB,"New York City",USA,271,2022-09-20,6.69,4050,3779,"Real Estate",Post-IPO,1600
+365,Berlin,Berlin,Germany,500,2022-11-28,50.00,1000,500,Other,"Series D",604
+366,Bengaluru,Bengaluru,India,45,2022-11-30,5.00,900,855,Education,"Series B",118
+367,Bengaluru,Bengaluru,India,48,2023-06-19,20.00,240,192,Media,Unknown,88
+368,AtoB,Vancouver,Canada,134,2022-11-02,22.00,609,475,Crypto,"Series D",607
+369,Berlin,Berlin,Germany,8000,2023-04-24,40.00,20000,12000,Food,"Series B",1000
+370,Bengaluru,Bengaluru,India,56,2023-03-15,30.00,187,131,Retail,"Series A",17
+371,"Berlin Brands Group","New Delhi",India,250,2022-06-10,30.00,833,583,Logistics,"Series E",150
+372,Atsu,Berlin,Germany,15,2020-04-24,25.00,60,45,Travel,"Series B",30
+373,Bengaluru,Bengaluru,India,60,2023-08-30,35.00,171,111,Retail,Acquired,10
+374,"Berlin Brands Group","Salt Lake City",USA,119,2022-02-14,29.00,410,291,"Real Estate","Series B",35
+375,Atsu,"New York City",USA,91,2020-04-20,14.00,650,559,Crypto,Unknown,10
+376,Bestow,Helsinki,Finland,250,2022-06-15,17.00,1471,1221,Retail,"Series C",169
+377,BigPanda,Santiago,Chile,250,2023-05-11,11.00,2273,2023,Food,Acquired,31
+378,AU10TIX,"San Francisco Bay Area",USA,260,2022-12-07,20.00,1300,1040,Finance,"Series D",734
+379,Bengaluru,Bengaluru,India,75,2023-05-25,30.00,250,175,Marketing,"Series B",50
+380,Bengaluru,Bengaluru,India,78,2023-04-20,30.00,260,182,Consumer,"Series B",50
+381,AU10TIX,Walnut,USA,285,2023-02-27,15.00,1900,1615,Healthcare,"Series C",462
+382,BioMarin,Detroit,USA,840,2022-07-27,6.00,14000,13160,Transportation,Post-IPO,10700
+383,Bestow,"New York City",USA,20,2022-04-08,10.00,200,180,Food,Acquired,176
+384,Better.com,Berlin,Germany,75,2020-07-27,72.00,104,29,Finance,"Series B",60
+385,BioMarin,"New York City",USA,70,2022-11-16,9.00,778,708,Marketing,Unknown,436
+386,Bengaluru,Bengaluru,India,80,2024-02-09,3.00,2667,2587,Food,"Series F",490
+387,Bengaluru,Bengaluru,India,100,2022-05-30,10.00,1000,900,Consumer,"Series E",375
+388,Bird,Austin,USA,30,2020-11-09,50.00,60,30,Retail,Unknown,4
+389,Auckland,Auckland,"New Zealand",25,2023-03-15,30.00,83,58,Finance,"Series B",24
+390,Better.com,London,"United Kingdom",60,2020-05-11,3.00,2000,1940,Finance,"Series D",837
+391,Bengaluru,Bengaluru,India,100,2022-07-15,50.00,200,100,Finance,"Series A",31
+392,Bird,"New York City",USA,53,2020-04-07,8.00,663,610,Marketing,"Private Equity â€¦",607
+393,Better.com,Mumbai,India,270,2020-05-28,18.00,1500,1230,Consumer,Unknown,224
+394,Bengaluru,Bengaluru,India,100,2023-01-27,6.00,1667,1567,Retail,"Series E",390
+395,Better.com,"San Francisco Bay Area",USA,40,2022-07-29,6.00,667,627,Marketing,"Series C",65
+396,Bengaluru,Bengaluru,India,100,2023-02-21,20.00,500,400,Crypto,Unknown,451
+397,Bird,"Sao Paulo",Brazil,18,2020-04-08,16.00,113,95,HR,Unknown,23
+398,BetterUp,London,"United Kingdom",150,2023-06-12,17.00,882,732,Finance,"Series G",529
+399,Bird,Toronto,Canada,31,2022-08-05,17.00,182,151,Marketing,"Series A",42
+400,BetterUp,"San Francisco Bay Area",USA,10000,2023-03-14,13.58,73615,63615,Consumer,Post-IPO,26000
+401,"Bishop Fox",Austin,USA,180,2022-12-15,13.00,1385,1205,Retail,Post-IPO,224
+402,Bevi,Miami,USA,1000,2024-01-10,12.00,8333,7333,Infrastructure,Acquired,20
+403,Bengaluru,Bengaluru,India,100,2023-03-17,2.00,5000,4900,Retail,"Series F",431
+404,Bevi,Toronto,Canada,47,2020-03-26,10.00,470,423,Energy,"Series C",149
+405,Bengaluru,Bengaluru,India,100,2023-04-07,20.00,500,400,Finance,"Series C",120
+406,"Bishop Fox",Seattle,USA,140,2023-06-08,15.00,933,793,Sales,"Series F",644
+407,Bengaluru,Bengaluru,India,100,2023-12-18,10.00,1000,900,Retail,Unknown,NULL
+408,BitOasis,"New Delhi",India,250,2022-06-10,30.00,833,583,Logistics,"Series E",150
+409,Bengaluru,Bengaluru,India,100,2023-12-18,10.00,1000,900,Retail,Unknown,2
+410,"Beyond Meat",Bengaluru,India,2500,2022-10-12,5.00,50000,47500,Education,"Private Equity â€¦",NULL
+411,Boston,Boston,USA,900,2020-04-28,25.00,3600,2700,Travel,Post-IPO,3
+412,Bengaluru,Bengaluru,India,100,2024-05-08,15.00,667,567,Finance,"Series B",71
+413,BitOasis,"San Francisco",USA,24,2022-06-21,8.00,300,276,Product,"Series D",248
+414,"Beyond Meat",Curitiba,Brazil,340,2022-06-21,20.00,1700,1360,Finance,"Series B",460
+415,Bengaluru,Bengaluru,India,101,2020-05-20,25.00,404,303,Marketing,"Series D",222
+416,Bitpanda,"San Francisco",USA,37,2021-08-24,50.00,74,37,Education,"Series A",14
+417,Boston,Boston,USA,1300,2020-04-07,50.00,2600,1300,Food,"Series F",902
+418,"Beyond Meat",Gothenburg,Sweden,72,2022-11-17,33.00,218,146,Finance,Unknown,281
+419,Bengaluru,Bengaluru,India,125,2024-01-11,5.00,2500,2375,Marketing,Unknown,320
+420,Bitpanda,"Sao Paulo",Brazil,75,2022-06-14,15.00,500,425,Healthcare,Unknown,36
+421,Boston,Boston,USA,1650,2024-01-19,13.00,12692,11042,Retail,Post-IPO,2
+422,"Beyond Meat","New York City",USA,30,2024-04-11,15.00,200,170,Logistics,"Series C",336
+423,Boston,Boston,USA,1750,2023-01-20,10.00,17500,15750,Retail,Post-IPO,1700
+424,Bitso,Gurugram,India,191,2022-06-19,30.00,637,446,Retail,"Series C",112
+425,Bengaluru,Bengaluru,India,130,2020-06-29,22.00,591,461,Transportation,"Series D",214
+426,"Beyond Meat",Portland,USA,30,2023-09-05,15.00,200,170,Healthcare,Post-IPO,238
+427,Bengaluru,Bengaluru,India,130,2022-10-12,75.00,173,43,Education,"Series A",17
+428,"Beyond Meat","San Francisco",USA,150,2022-10-12,10.00,1500,1350,Sales,"Series E",426
+429,Boulder,Boulder,USA,4,2020-03-18,20.00,20,16,Marketing,Seed,4
+430,Bitso,Portland,USA,41,2021-09-14,90.00,46,5,Education,"Series B",12
+431,Bengaluru,Bengaluru,India,142,2023-01-17,15.00,947,805,Support,"Series D",87
+432,"Beyond Meat","Sao Paulo",Brazil,75,2022-09-20,2.00,3750,3675,Transportation,Acquired,244
+433,Boulder,Boulder,USA,20,2022-06-30,12.00,167,147,Product,"Series B",58
+434,Bengaluru,Bengaluru,India,145,2022-05-27,30.00,483,338,Education,"Series A",17
+435,BitTitan,Dubai,"United Arabian Emirates",400,2022-05-30,32.00,1250,850,Transportation,Post-IPO,132
+436,BeyondMinds,Bengaluru,India,150,2022-06-18,3.00,5000,4850,Education,"Series H",838
+437,Boulder,Boulder,USA,23,2022-08-02,30.00,77,54,Product,"Series B",75
+438,BitTitan,Singapore,Singapore,22,2020-09-01,11.00,200,178,Finance,Unknown,97
+439,Bengaluru,Bengaluru,India,150,2022-06-18,3.00,5000,4850,Education,"Series H",838
+440,Boulder,Boulder,USA,24,2022-06-14,10.00,240,216,Crypto,"Series D",204
+441,BeyondMinds,"San Francisco Bay Area",USA,23,2022-06-03,22.00,105,82,Consumer,"Series C",108
+442,Bitwise,Austin,USA,73,2023-11-01,50.00,146,73,HR,"Series B",106
+443,Bengaluru,Bengaluru,India,150,2022-11-25,5.00,3000,2850,Media,"Series J",1700
+444,BharatAgri,Boston,USA,500,2023-01-31,7.00,7143,6643,Marketing,Post-IPO,100
+445,Boulder,Boulder,USA,65,2024-01-25,19.00,342,277,Logistics,"Series B",299
+446,Bengaluru,Bengaluru,India,150,2023-04-09,25.00,600,450,Finance,"Series B",71
+447,BharatAgri,Nashua,USA,23,2023-03-29,28.00,82,59,Healthcare,Post-IPO,59
+448,Boulder,Boulder,USA,87,2022-05-20,15.00,580,493,Media,"Series B",174
+449,Bengaluru,Bengaluru,India,150,2023-09-26,30.00,500,350,Food,Unknown,458
+450,Bitwise,London,"United Kingdom",200,2023-07-30,30.00,667,467,Security,Post-IPO,188
+451,Bengaluru,Bengaluru,India,150,2023-12-05,100.00,150,NULL,Finance,"Series C",120
+452,Bengaluru,Bengaluru,India,150,2023-12-05,100.00,150,0,Finance,"Series C",120
+453,Bizzabo,Fremont,USA,150,2022-06-15,10.00,1500,1350,Food,"Series E",863
+454,Bizzabo,"San Francisco",USA,1100,2022-11-30,30.00,3667,2567,Crypto,Unknown,134
+455,Bengaluru,Bengaluru,India,150,2024-04-27,27.00,556,406,Healthcare,"Series D",130
+456,Bizzabo,"San Francisco Bay Area",USA,50,2022-11-02,50.00,100,50,Food,"Series C",103
+457,Bizzabo,"San Francisco Bay Area",USA,85,2022-07-01,100.00,85,0,Travel,"Series B",26
+458,BlackLine,"Buenos Aires",Argentina,53,2022-11-30,3.00,1767,1714,Finance,"Series D",544
+459,BlackLine,Chicago,USA,579,2023-08-08,5.00,11580,11001,Other,Post-IPO,748
+460,Cadre,"Los Angeles",USA,20,2020-04-28,50.00,40,20,Retail,Seed,2
+461,BlackLine,Hamburg,Germany,50,2022-11-15,16.00,313,263,Other,Unknown,28
+462,Cadre,"New York City",USA,130,2022-05-20,28.00,464,334,Security,Post-IPO,342
+463,BlackLine,Toronto,Canada,13,2023-07-31,9.00,144,131,Other,"Series A",12
+464,Calendly,Gurugram,India,300,2023-08-02,5.00,6000,5700,Transportation,"Series E",513
+465,Boulder,Boulder,USA,100,2023-01-18,12.00,833,733,Security,"Series F",416
+466,Blend,Boulder,USA,23,2022-08-02,30.00,77,54,Product,"Series B",75
+467,Calendly,"San Francisco Bay Area",USA,145,2023-12-05,5.00,2900,2755,Finance,Unknown,NULL
+468,Blend,Copenhagen,Denmark,35,2022-10-11,35.00,100,65,Marketing,Seed,2
+469,Bounce,Berlin,Germany,75,2020-07-27,72.00,104,29,Finance,"Series B",60
+470,Calgary,Calgary,Canada,21,2023-10-19,28.00,75,54,Data,"Series A",16
+471,Calgary,Calgary,Canada,50,2023-03-17,25.00,200,150,Other,"Series C",148
+472,Blend,Dubai,"United Arabian Emirates",93,2022-11-21,10.00,930,837,Food,"Series C",804
+473,Bounce,"Los Angeles",USA,50,2020-05-06,8.00,625,575,Marketing,Post-IPO,60
+474,Chicago,Chicago,USA,50,2022-10-05,25.00,200,150,HR,"Series C",29
+475,Calgary,Calgary,Canada,137,2023-01-18,14.00,979,842,Other,Unknown,69
+476,Bounce,Seattle,USA,22,2020-07-20,49.00,45,23,Finance,"Series B",15
+477,Blend,Lagos,Nigeria,27,2022-11-25,9.00,300,273,Food,"Series A",43
+478,Chicago,Chicago,USA,50,2022-10-05,25.00,200,150,Recruiting,"Series C",29
+479,Calibrate,"Los Angeles",USA,8,2022-06-23,13.00,62,54,Marketing,Unknown,10
+480,Calibrate,"San Francisco Bay Area",USA,90,2022-08-11,20.00,450,360,Healthcare,"Series C",218
+481,Bounce,Toronto,Canada,48,2023-02-10,72.00,67,19,Healthcare,Post-IPO,278
+482,Blend,"New York City",USA,30,2023-01-05,8.00,375,345,Support,"Private Equity",178
+483,Chicago,Chicago,USA,52,2020-04-01,12.00,433,381,Marketing,"Series D",159
+484,Calm,London,"United Kingdom",20,2022-10-19,12.00,167,147,Security,"Series B",88
+485,Chicago,Chicago,USA,54,2022-07-14,15.00,360,306,HR,"Series C",115
+486,Blend,"New York City",USA,60,2023-07-27,6.00,1000,940,Data,"Series E",569
+487,Chicago,Chicago,USA,60,2022-08-11,8.00,750,690,Logistics,"Series D",201
+488,Blend,"New York City",USA,115,2022-03-15,46.00,250,135,"Real Estate",Unknown,654
+489,Chicago,Chicago,USA,63,2022-07-15,5.00,1260,1197,Logistics,Unknown,817
+490,Blend,"Palo Alto",USA,30,2022-06-02,33.00,91,61,Consumer,"Series B",76
+491,Chicago,Chicago,USA,80,2022-06-09,40.00,200,120,Infrastructure,"Series B",82
+492,Blend,Tallinn,Estonia,66,2023-02-09,12.00,550,484,Security,"Series C",192
+493,Chicago,Chicago,USA,81,2023-04-17,15.00,540,459,Finance,"Series D",304
+494,Chicago,Chicago,USA,87,2022-05-04,25.00,348,261,Consumer,Unknown,165
+495,Blend,Waterloo,Canada,13,2022-12-06,13.00,100,87,Construction,"Series B",36
+496,Chicago,Chicago,USA,130,2023-02-27,25.00,520,390,Finance,Unknown,283
+497,BlissClub,"San Jose",USA,2500,2024-01-30,9.00,27778,25278,Finance,Post-IPO,216
+498,Chicago,Chicago,USA,130,2023-05-26,10.00,1300,1170,Logistics,Unknown,817
+499,BlissClub,"San Luis Obispo",USA,700,2020-04-02,35.00,2000,1300,Fitness,Post-IPO,114
+500,Chicago,Chicago,USA,150,2022-12-07,10.00,1500,1350,Legal,"Private Equity",125
+501,Block,"New York City",USA,23,2020-04-02,7.00,329,306,Marketing,"Series B",16
+502,Chicago,Chicago,USA,150,2022-12-07,10.00,1500,1350,Legal,"Private Equity â€¦",125
+503,Bounce,Walldorf,Germany,3000,2023-01-26,3.00,100000,97000,Other,Post-IPO,1300
+504,Block,Stockholm,Sweden,1500,2023-12-04,17.00,9200,7700,Media,Post-IPO,2100
+505,Chicago,Chicago,USA,150,2023-08-23,30.00,500,350,HR,"Series B",220
+506,Bounce,"Washington DC",USA,400,2020-05-21,10.00,4000,3600,Marketing,Acquired,146
+507,Chicago,Chicago,USA,500,2022-08-08,15.00,3333,2833,Retail,Post-IPO,NULL
+508,Chicago,Chicago,USA,500,2023-03-01,4.00,12500,12000,Other,Post-IPO,748
+509,BounceX,"San Francisco",USA,3000,2020-05-18,13.00,23077,20077,Transportation,Post-IPO,24700
+510,Chicago,Chicago,USA,579,2023-08-08,5.00,11580,11001,Other,Post-IPO,748
+511,Calm,"San Francisco Bay Area",USA,180,2022-10-10,11.00,1636,1456,Marketing,Post-IPO,1100
+512,Blockchain.com,Austin,USA,2200,2023-03-22,15.00,14667,12467,HR,Acquired,5
+513,BounceX,"San Francisco Bay Area",USA,155,2020-04-21,10.00,1550,1395,Consumer,"Series E",613
+514,Chicago,Chicago,USA,700,2023-08-28,7.00,10000,9300,Manufacturing,Post-IPO,NULL
+515,Camarillo,Camarillo,USA,200,2020-04-15,67.00,299,99,Food,Unknown,423
+516,Blockchain.com,"Salt Lake City",USA,40,2022-10-04,13.00,308,268,"Real Estate","Series B",35
+517,Chicago,Chicago,USA,800,2022-08-09,20.00,4000,3200,Healthcare,Post-IPO,75
+518,Boxed,Ra'anana,Israel,28,2023-06-29,30.00,93,65,Other,"Series B",65
+519,Chicago,Chicago,USA,1000,2024-07-10,100.00,1000,NULL,Media,Acquired,51
+520,Blockchain.com,"San Francisco",USA,1500,2023-02-13,17.00,8824,7324,Other,Post-IPO,614
+521,Boxed,"San Francisco Bay Area",USA,100,2023-02-17,33.00,303,203,Finance,"Series C",302
+522,Chicago,Chicago,USA,2800,2020-04-13,44.00,6364,3564,Retail,Post-IPO,NULL
+523,Chief,Melbourne,Australia,70,2023-05-10,23.00,304,234,Retail,Post-IPO,55
+524,Blockchain.com,"Sao Paulo",Brazil,384,2022-07-05,12.00,3200,2816,"Real Estate",Unknown,788
+525,Branch,"San Francisco",USA,900,2020-05-05,30.00,3000,2100,Consumer,Unknown,1500
+526,Chief,"Redwood City",USA,780,2023-03-29,6.00,13000,12220,Consumer,Post-IPO,2
+527,BlockFi,"San Francisco Bay Area",USA,13,2022-06-29,14.00,93,80,Media,"Series B",82
+528,Branch,"San Francisco Bay Area",USA,240,2022-05-25,27.00,889,649,Finance,"Series E",1300
+529,Chime,Dubai,"United Arabian Emirates",93,2022-11-21,10.00,930,837,Food,"Series C",804
+530,Chime,Toronto,Canada,34,2022-11-17,19.00,179,145,Other,"Series B",73
+531,BlockFi,"Sao Paulo",Brazil,60,2022-06-10,20.00,300,240,Healthcare,Unknown,11
+532,"Branch Metrics","San Francisco",USA,40,2020-04-15,25.00,160,120,HR,"Series C",72
+533,Chingari,"San Francisco",USA,265,2023-11-28,4.00,6625,6360,Other,Post-IPO,1300
+534,"Branch Metrics","San Francisco Bay Area",USA,9,2020-04-01,40.00,23,14,Healthcare,"Series A",15
+535,Chingari,"San Francisco Bay Area",USA,37,2023-06-28,20.00,185,148,Media,Unknown,81
+536,Blueground,"San Francisco Bay Area",USA,150,2024-03-01,100.00,150,0,Healthcare,Unknown,NULL
+537,"Chipper Cash",Berlin,Germany,40,2023-09-12,20.00,200,160,"Real Estate",Unknown,71
+538,Brave,"San Francisco",USA,180,2024-06-26,17.00,1059,879,Aerospace,Post-IPO,574
+539,"Chipper Cash",Boston,USA,1650,2024-01-19,13.00,12692,11042,Retail,Post-IPO,2
+540,"Brave Care",London,"United Kingdom",40,2022-09-16,10.00,400,360,Finance,"Series E",271
+541,"Chipper Cash",London,"United Kingdom",30,2022-11-30,50.00,60,30,Retail,Acquired,40
+542,"Chipper Cash","San Francisco",USA,560,2023-04-18,22.00,2545,1985,"Real Estate",Post-IPO,1900
+543,Blueground,"San Francisco Bay Area",USA,250,2020-03-26,50.00,500,250,Retail,"Series C",88
+544,"Brave Care",Seattle,USA,11,2022-07-21,5.00,220,209,Healthcare,"Series B",42
+545,"Chipper Cash","San Francisco Bay Area",USA,142,2022-11-02,10.00,1420,1278,Finance,"Series H",468
+546,"Chipper Cash",Seattle,USA,48,2024-01-16,20.00,240,192,Transportation,Acquired,9
+547,Blumenau,Blumenau,Brazil,33,2020-04-20,25.00,132,99,Support,Seed,1
+548,Breathe,Nairobi,Kenya,54,2022-08-02,20.00,270,216,Logistics,"Series B",26
+549,Cameo,Atlanta,USA,59,2022-06-02,8.00,738,679,Logistics,"Series D",325
+550,"Chipper Cash",Sydney,Australia,45,2023-04-27,20.00,225,180,Retail,"Series C",26
+551,Cameo,"San Francisco",USA,73,2020-05-12,50.00,146,73,"Real Estate","Series B",79
+552,Chope,Boston,USA,65,2022-12-05,10.00,650,585,Security,"Series E",265
+553,Bluprint,Bengaluru,India,800,2020-05-04,16.00,5000,4200,Fitness,"Series D",404
+554,Campbell,Campbell,USA,37,2023-06-28,20.00,185,148,Media,Unknown,81
+555,Chope,Columbus,USA,137,2022-11-09,20.00,685,548,Finance,Post-IPO,527
+556,Bluprint,Stockholm,Sweden,700,2022-05-23,10.00,7000,6300,Finance,Unknown,3700
+557,Campbell,Campbell,USA,155,2023-01-18,7.00,2214,2059,Support,Post-IPO,253
+558,ChowNow,Berlin,Germany,100,2022-07-13,30.00,333,233,Product,"Series B",89
+559,Breathe,"San Francisco Bay Area",USA,16,2022-06-29,25.00,64,48,Transportation,"Series A",13
+560,Campbell,Campbell,USA,200,2022-10-04,9.00,2222,2022,Support,Post-IPO,253
+561,ChowNow,Boston,USA,65,2022-11-08,50.00,130,65,Healthcare,"Series B",257
+562,Campbell,Campbell,USA,250,2024-09-04,15.00,1667,1417,Manufacturing,Unknown,1
+563,Breather,Bengaluru,India,1400,2020-05-20,35.00,4000,2600,Transportation,"Series J",3800
+564,Boise,Boise,USA,2400,2023-02-17,5.00,48000,45600,Hardware,Post-IPO,50
+565,"Candy Digital","San Francisco",USA,1250,2022-11-30,6.00,20833,19583,Food,Post-IPO,2500
+566,Boise,Boise,USA,4800,2023-01-01,10.00,48000,43200,Hardware,Post-IPO,50
+567,"Candy Digital","San Francisco Bay Area",USA,155,2023-02-09,10.00,1550,1395,Finance,Post-IPO,566
+568,Canoo,Chicago,USA,800,2022-08-09,20.00,4000,3200,Healthcare,Post-IPO,75
+569,Bolt,Boston,USA,25,2022-07-25,9.00,278,253,Healthcare,Post-IPO,409
+570,Canoo,"Palo Alto",USA,23,2022-06-15,23.00,100,77,Other,"Series B",83
+571,Capitolis,London,"United Kingdom",206,2023-01-17,100.00,206,NULL,Transportation,Unknown,2400
+572,Bolt,Boston,USA,150,2024-04-19,8.00,1875,1725,Product,"Series G",802
+573,Capitolis,"Los Angeles",USA,84,2022-10-27,17.00,494,410,Finance,"Series B",277
+574,Bolt,Denver,USA,175,2023-09-12,20.00,875,700,Travel,"Series F",224
+575,Captiv8,"San Francisco Bay Area",USA,117,2023-08-01,10.00,1170,1053,Aerospace,Post-IPO,574
+576,Bolt,"San Francisco Bay Area",USA,37,2021-08-24,50.00,74,37,Education,"Series A",14
+577,Captiv8,Seattle,USA,50,2024-01-06,9.00,555,505,Healthcare,Post-IPO,826
+578,CaptivateIQ,Seattle,USA,862,2022-11-09,13.00,6631,5769,"Real Estate",Post-IPO,320
+579,CaptivateIQ,Singapore,Singapore,80,2022-11-22,8.00,1000,920,Retail,"Series E",1000
+580,ChowNow,Chicago,USA,52,2020-04-01,12.00,433,381,Marketing,"Series D",159
+581,"Carbon Health",Chicago,USA,150,2023-08-23,30.00,500,350,HR,"Series B",220
+582,Bolt,"San Francisco Bay Area",USA,95,2022-12-07,8.00,1188,1093,Consumer,"Series E",613
+583,ChowNow,Gurugram,India,191,2022-06-19,30.00,637,446,Retail,"Series C",112
+584,"Carbon Health",Detroit,USA,840,2022-07-27,6.00,14000,13160,Transportation,Post-IPO,10700
+585,Breather,"San Francisco",USA,60,2020-07-15,15.00,400,340,Marketing,"Series D",251
+586,ChowNow,"New York City",USA,110,2022-09-22,33.00,333,223,Crypto,"Private Equity",1400
+587,Bolt,"San Jose",USA,325,2023-02-01,4.00,8125,7800,Data,Post-IPO,2400
+588,"Carbon Health","Los Angeles",USA,95,2023-08-23,5.00,1900,1805,Finance,Post-IPO,220
+589,ChowNow,"San Diego",USA,245,2024-02-02,30.00,817,572,Healthcare,Post-IPO,899
+590,Brex,Bengaluru,India,400,2024-01-25,7.00,5714,5314,Food,Unknown,4
+591,Bonsai,Denver,USA,23,2020-03-26,20.00,115,92,Retail,"Series B",47
+592,"Carbon Health","San Francisco Bay Area",USA,250,2022-08-04,13.00,1923,1673,Finance,Post-IPO,679
+593,Chrono24,Bengaluru,India,142,2023-01-17,15.00,947,805,Support,"Series D",87
+594,Care/of,"San Francisco Bay Area",USA,172,2023-10-12,14.00,1229,1057,Finance,Post-IPO,392
+595,Brex,Dublin,Ireland,9,2022-11-17,9.00,100,91,Marketing,"Series A",35
+596,Chrono24,"Sao Paulo",Brazil,312,2022-12-07,12.00,2600,2288,"Real Estate",Unknown,788
+597,Bonsai,"Santa Fe",USA,12,2020-06-02,16.00,75,63,Data,"Series B",58
+598,Careem,"San Francisco Bay Area",USA,161,2020-04-15,16.00,1006,845,Finance,"Series E",447
+599,Cincinnati,Cincinnati,USA,30,2022-05-25,20.00,150,120,Finance,"Series B",70
+600,Brex,London,"United Kingdom",40,2022-09-16,10.00,400,360,Finance,"Series E",271
+601,Bonsai,Seattle,USA,470,2022-06-14,8.00,5875,5405,"Real Estate",Post-IPO,319
+602,Careem,"Santa Fe",USA,12,2020-06-02,16.00,75,63,Data,"Series B",58
+603,Cincinnati,Cincinnati,USA,76,2023-01-04,20.00,380,304,Data,"Series C",282
+604,Brex,"New York City",USA,28,2020-05-11,25.00,112,84,"Real Estate","Series C",133
+605,"Career Karma","Palo Alto",USA,70,2022-08-31,10.00,700,630,Finance,Post-IPO,1300
+606,Cincinnati,Cincinnati,USA,100,2023-04-13,40.00,250,150,Data,"Series C",282
+607,Cisco,Boston,USA,400,2024-06-24,35.00,1143,743,Healthcare,Post-IPO,100
+608,"Career Karma",Pittsburgh,USA,150,2022-07-07,5.00,3000,2850,Transportation,Unknown,NULL
+609,Brex,"New York City",USA,35,2020-04-03,40.00,88,53,Finance,"Series B",40
+610,Cisco,"San Francisco",USA,100,2022-11-10,6.00,1667,1567,Finance,Post-IPO,665
+611,CareRev,"San Francisco",USA,40,2023-08-01,30.00,133,93,"Real Estate","Series B",57
+612,Brex,"San Jose",USA,70,2020-06-16,1.00,7000,6930,Data,Post-IPO,40
+613,Bonsai,Singapore,Singapore,260,2022-06-10,5.00,5200,4940,Crypto,Unknown,156
+614,Cisco,"San Francisco Bay Area",USA,300,2020-04-03,50.00,600,300,Marketing,"Series D",162
+615,CareRev,"San Francisco Bay Area",USA,150,2023-06-26,7.00,2143,1993,Finance,Post-IPO,5600
+616,"Bridge Connector",Portland,USA,12,2020-03-25,5.00,240,228,Product,Unknown,233
+617,BookClub,"New York City",USA,38,2022-07-26,3.00,1267,1229,Marketing,Post-IPO,394
+618,BookClub,Seattle,USA,70,2021-11-18,27.00,259,189,Data,Acquired,46
+619,"Bridge Connector","San Francisco Bay Area",USA,300,2020-05-20,18.00,1667,1367,Logistics,"Series F",530
+620,CarGurus,"Los Angeles",USA,20,2020-03-12,40.00,50,30,Retail,"Series C",90
+621,BookMyShow,"New York City",USA,9,2020-05-08,1.00,900,891,Finance,"Series D",782
+622,Bridgit,London,"United Kingdom",50,2023-01-08,10.00,500,450,Media,"Series I",160
+623,CarGurus,"San Francisco Bay Area",USA,500,2020-04-08,45.00,1111,611,Consumer,Post-IPO,332
+624,BookMyShow,"Sao Paulo",Brazil,100,2022-05-16,40.00,250,150,Food,"Series A",29
+625,Carousell,Berlin,Germany,500,2022-11-28,50.00,1000,500,Other,"Series D",604
+626,Boost,Bengaluru,India,4,2023-07-10,100.00,4,NULL,Education,"Series A",17
+627,Carousell,"New York City",USA,300,2023-01-18,6.00,5000,4700,Healthcare,Post-IPO,172
+628,Bridgit,"New York City",USA,156,2022-07-08,24.00,650,494,Healthcare,"Series B",127
+629,Cars24,"New Delhi",India,350,2020-08-31,10.00,3500,3150,Travel,Post-IPO,548
+630,Cars24,"San Francisco Bay Area",USA,250,2022-06-02,8.00,3125,2875,Healthcare,"Series D",522
+631,"Bright Machines",Seattle,USA,470,2022-06-14,8.00,5875,5405,"Real Estate",Post-IPO,319
+632,Boost,"San Francisco Bay Area",USA,600,2023-05-03,8.00,7500,6900,Other,Post-IPO,1300
+633,Cart.com,"San Francisco",USA,50,2022-12-06,13.00,385,335,Finance,"Series C",302
+634,"Bright Machines",Seattle,USA,2000,2021-11-02,25.00,8000,6000,"Real Estate",Post-IPO,97
+635,Cart.com,"Tel Aviv",Israel,30,2022-12-05,18.00,167,137,Finance,"Series B",103
+636,Boozt,"San Francisco Bay Area",USA,30,2022-06-28,8.00,375,345,Data,Unknown,250
+637,Carta,"San Francisco",USA,10,2020-04-20,3.00,333,323,Healthcare,"Series C",100
+638,"Bright Money",Chennai,India,80,2022-06-20,30.00,267,187,Food,Unknown,12
+639,Boozt,Toronto,Canada,5,2020-11-19,25.00,20,15,Finance,Seed,3
+640,Carta,"San Francisco Bay Area",USA,89,2020-04-08,45.00,198,109,Finance,"Series B",40
+641,Borrowell,Oakland,USA,45,2020-04-14,35.00,129,84,Consumer,"Series B",90
+642,"Bright Money","San Francisco",USA,40,2022-09-27,12.00,333,293,"Real Estate","Series B",180
+643,Borrowell,"San Francisco Bay Area",USA,108,2020-03-31,30.00,360,252,Transportation,"Series E",467
+644,Brightcove,"New York City",USA,45,2023-05-16,3.00,1500,1455,Finance,Post-IPO,481
+645,Brightcove,"Salt Lake City",USA,75,2023-07-17,25.00,300,225,Aerospace,Post-IPO,316
+646,Cisco,Seattle,USA,300,2022-10-26,5.00,6000,5700,"Real Estate",Post-IPO,97
+647,Boston,Boston,USA,4,2020-04-08,12.00,33,29,Food,"Series A",26
+648,Cisco,"Tel Aviv",Israel,20,2024-06-19,10.00,200,180,Transportation,Acquired,131
+649,"Citrine Informatics",Boise,USA,2400,2023-02-17,5.00,48000,45600,Hardware,Post-IPO,50
+650,"Citrine Informatics",London,"United Kingdom",80,2023-04-11,40.00,200,120,Marketing,"Series C",105
+651,Citrix,Austin,USA,12,2024-01-25,30.00,40,28,Marketing,"Series B",27
+652,Citrix,"Tel Aviv",Israel,40,2024-05-09,30.00,133,93,Healthcare,"Series D",124
+653,Brighte,Mumbai,India,80,2022-08-04,4.00,2000,1920,Education,"Series E",166
+654,"Cityblock Health",Bengaluru,India,150,2023-04-09,25.00,600,450,Finance,"Series B",71
+655,Brighte,Stockholm,Sweden,100,2022-03-17,10.00,1000,900,Media,Post-IPO,275
+656,"Cityblock Health",Boston,USA,140,2023-10-19,9.00,1556,1416,Sales,Acquired,32
+657,Bringg,"San Francisco",USA,30,2020-04-21,13.00,231,201,Media,"Series D",165
+658,CityMall,"San Francisco",USA,1100,2022-06-14,18.00,6111,5011,Crypto,Post-IPO,549
+659,Boston,Boston,USA,13,2020-04-17,37.00,35,22,Security,Unknown,1
+660,Bringg,"San Francisco Bay Area",USA,1000,2020-04-09,17.00,5882,4882,Consumer,Post-IPO,56
+661,CityMall,"San Francisco Bay Area",USA,200,2022-06-29,4.00,5000,4800,Other,Post-IPO,1300
+662,"Clarify Health","New York City",USA,20,2022-08-26,7.00,286,266,Finance,"Series B",78
+663,Brisbane,Brisbane,Australia,50,2023-04-27,16.00,313,263,Infrastructure,Post-IPO,98
+664,Boston,Boston,USA,20,2020-04-01,20.00,100,80,Marketing,"Series A",16
+665,"Clarify Health","San Francisco Bay Area",USA,125,2022-08-17,14.00,893,768,Security,"Series B",80
+666,Bristol,Bristol,"United Kingdom",38,2022-08-30,10.00,380,342,Security,"Series C",123
+667,ClassPass,Corvallis,USA,154,2024-01-08,28.00,550,396,Energy,Post-IPO,470
+668,Carvana,"San Francisco",USA,100,2022-07-06,9.00,1111,1011,HR,"Series C",496
+669,ClassPass,"Tel Aviv",Israel,70,2020-03-30,30.00,233,163,HR,"Series A",45
+670,Boston,Boston,USA,20,2020-04-10,29.00,69,49,Data,Unknown,85
+671,Carvana,Singapore,Singapore,21,2021-01-20,100.00,21,0,Marketing,Unknown,20
+672,Clear,Boston,USA,25,2022-07-25,9.00,278,253,Healthcare,Post-IPO,409
+673,Boston,Boston,USA,24,2020-04-06,14.00,171,147,Support,"Series C",92
+674,Carvana,"Tel Aviv",Israel,30,2023-01-05,25.00,120,90,Data,"Series C",116
+675,Clear,Oakland,USA,15,2022-07-01,6.00,250,235,Infrastructure,"Series C",169
+676,Carwow,Hayward,USA,100,2022-11-11,30.00,333,233,"Real Estate","Series D",597
+677,Boston,Boston,USA,25,2020-05-05,10.00,250,225,HR,"Series C",84
+678,Clearbanc,Chicago,USA,19,2020-04-24,30.00,63,44,Marketing,"Series A",7
+679,Carwow,Seattle,USA,150,2022-10-28,0.04,333483,333333,Retail,Post-IPO,108
+680,Clearbanc,"San Francisco",USA,112,2020-05-20,7.00,1600,1488,Finance,"Private Equity",2500
+681,Casper,Seattle,USA,6,2020-04-10,100.00,6,0,Infrastructure,Unknown,1
+682,Boston,Boston,USA,25,2020-05-05,10.00,250,225,Recruiting,"Series C",84
+683,Clearco,"New York City",USA,156,2022-07-08,24.00,650,494,Healthcare,"Series B",127
+684,Casper,Seattle,USA,40,2020-04-21,13.00,308,268,Healthcare,"Series B",42
+685,Boston,Boston,USA,25,2022-07-25,9.00,278,253,Healthcare,Post-IPO,409
+686,ClearCo,Philadelphia,USA,17,2023-03-30,15.00,113,96,Sales,"Series C",116
+687,"Cayman Islands","Cayman Islands","Cayman Islands",60,2024-02-01,19.00,316,256,Crypto,Unknown,451
+688,Boston,Boston,USA,26,2020-04-06,10.00,260,234,Marketing,Acquired,28
+689,ClearCo,"San Francisco",USA,39,2022-07-14,7.00,557,518,"Real Estate","Series E",240
+690,Cazoo,Nashville,USA,154,2020-11-17,100.00,154,NULL,Healthcare,"Series B",45
+691,Boston,Boston,USA,26,2022-06-09,5.00,520,494,Education,"Series C",100
+692,Clearco,Sydney,Australia,18,2022-06-28,50.00,36,18,Healthcare,"Series B",20
+693,Cazoo,"San Francisco Bay Area",USA,250,2022-06-08,21.00,1190,940,Travel,Post-IPO,839
+694,Clearcover,Chennai,India,300,2023-07-11,12.00,2500,2200,Food,Unknown,363
+695,Boston,Boston,USA,27,2022-07-05,7.00,386,359,Security,"Series A",583
+696,Clearcover,"San Francisco Bay Area",USA,86,2023-10-02,40.00,215,129,Finance,"Series B",50
+697,Britishvolt,"New York City",USA,100,2023-02-15,4.00,2500,2400,"Software Development",Post-IPO,429
+698,Cazoo,Toronto,Canada,50,2022-08-05,10.00,500,450,Retail,"Series B",28
+699,CleverTap,Bengaluru,India,200,2020-04-08,28.00,714,514,Retail,"Series D",215
+700,CleverTap,Boston,USA,20,2020-04-10,29.00,69,49,Data,Unknown,85
+701,Celsius,Boston,USA,70,2022-06-23,9.00,778,708,Security,"Series F",500
+702,Britishvolt,Seattle,USA,15,2023-04-03,12.00,125,110,Recruiting,Unknown,42
+703,Boston,Boston,USA,29,2022-09-19,43.00,67,38,Healthcare,"Series B",75
+704,ClickUp,Boston,USA,125,2023-11-12,4.00,3125,3000,Travel,Post-IPO,3
+705,Celsius,Toronto,Canada,159,2022-06-15,13.00,1223,1064,Finance,Unknown,900
+706,Cerebral,Bengaluru,India,40,2023-01-06,5.00,800,760,Transportation,"Series D",214
+707,Briza,"Palo Alto",USA,130,2023-01-25,7.00,1857,1727,Healthcare,Post-IPO,550
+708,Boston,Boston,USA,30,2020-03-27,20.00,150,120,Food,"Series C",60
+709,Cerebral,Boston,USA,90,2022-11-16,11.00,818,728,Retail,"Series F",452
+710,Boston,Boston,USA,30,2022-08-31,20.00,150,120,Healthcare,Post-IPO,173
+711,Briza,"San Francisco Bay Area",USA,1250,2022-11-30,6.00,20833,19583,Food,Post-IPO,2500
+712,Cerebral,"Los Angeles",USA,221,2023-02-15,8.00,2763,2542,Sales,"Series G",1100
+713,Boston,Boston,USA,35,2022-06-22,7.00,500,465,Transportation,"Series C",261
+714,Cerebral,"Redwood City",USA,40,2023-04-24,13.00,308,268,Infrastructure,"Series E",337
+715,Brno,Brno,"Czech Republic",216,2024-01-30,18.00,1200,984,Travel,Unknown,107
+716,Boston,Boston,USA,39,2020-04-02,20.00,195,156,HR,"Private Equity",118
+717,Bryter,Boston,USA,55,2022-08-21,10.00,550,495,Security,Acquired,21
+718,Boston,Boston,USA,39,2020-04-02,20.00,195,156,Recruiting,"Private Equity â€¦",118
+719,Bryter,"New York City",USA,784,2022-08-12,13.00,6031,5247,Fitness,Post-IPO,1900
+720,Chainalysis,Atlanta,USA,300,2023-08-14,15.00,2000,1700,Security,Post-IPO,83
+721,Buenbit,"Kuala Lumpur",Malaysia,50,2022-06-08,20.00,250,200,Retail,Unknown,26
+722,Chainalysis,"San Francisco",USA,10,2024-01-09,4.00,250,240,Hardware,"Series C",230
+723,Buenbit,Vancouver,Canada,47,2022-08-03,20.00,235,188,Marketing,"Series A",39
+724,Chainalysis,"San Francisco",USA,80,2023-02-28,8.00,1000,920,Consumer,Post-IPO,557
+725,Chainalysis,"San Francisco Bay Area",USA,25,2022-12-08,4.00,625,600,Security,"Private Equity â€¦",537
+726,Boston,Boston,USA,40,2022-06-09,100.00,40,NULL,Retail,Acquired,5
+727,Character.ai,Dallas,USA,260,2024-06-27,4.00,6500,6240,"Real Estate",Acquired,105
+728,Boston,Boston,USA,40,2022-06-09,100.00,40,0,Retail,Acquired,5
+729,"Buenos Aires","Buenos Aires",Argentina,53,2022-11-30,3.00,1767,1714,Finance,"Series D",544
+730,Chargebee,"New York City",USA,225,2023-12-13,11.00,2045,1820,Retail,Post-IPO,97
+731,Boston,Boston,USA,46,2023-01-12,30.00,153,107,Healthcare,Post-IPO,301
+732,"Buenos Aires","Buenos Aires",Argentina,80,2022-05-23,45.00,178,98,Crypto,"Series A",11
+733,Boston,Boston,USA,50,2023-01-17,65.00,77,27,Other,Acquired,92
+734,"Buenos Aires","Buenos Aires",Argentina,100,2022-11-24,38.00,263,163,Crypto,"Series A",17
+735,Boston,Boston,USA,50,2024-07-17,10.00,500,450,Security,"Series E",325
+736,Chargebee,"San Francisco Bay Area",USA,89,2023-02-03,20.00,445,356,Crypto,Unknown,10
+737,Chargebee,Singapore,Singapore,1000,2023-06-20,11.00,9091,8091,Transportation,Post-IPO,16500
+738,Chargebee,"Tel Aviv",Israel,100,2023-01-10,10.00,1000,900,Security,Acquired,125
+739,ChargePoint,"Tel Aviv",Israel,20,2024-07-01,33.00,61,41,Hardware,Unknown,61
+740,ClickUp,"San Francisco",USA,250,2022-06-08,21.00,1190,940,Travel,Post-IPO,839
+741,Checkmarx,"San Francisco",USA,3700,2022-11-04,50.00,7400,3700,Consumer,Post-IPO,12900
+742,ClickUp,"San Francisco Bay Area",USA,160,2021-04-06,7.00,2286,2126,Infrastructure,Post-IPO,215
+743,Builder,"San Francisco",USA,6,2020-06-23,100.00,6,NULL,Product,Seed,3
+744,Builder,"San Francisco Bay Area",USA,73,2020-05-12,50.00,146,73,"Real Estate","Series B",79
+745,Checkmarx,Toronto,Canada,15,2022-11-17,4.00,375,360,Finance,"Series D",278
+746,"Built In",Boston,USA,160,2022-09-13,75.00,213,53,Healthcare,Post-IPO,445
+747,ClickUp,Stockholm,Sweden,1500,2023-12-04,17.00,9200,7700,Media,Post-IPO,2100
+748,Checkout.com,Melbourne,Australia,120,2022-11-15,100.00,120,0,Food,Post-IPO,NULL
+749,Clinc,Chicago,USA,52,2020-04-01,12.00,433,381,Marketing,"Series D",159
+750,"Built In","San Francisco",USA,100,2022-11-01,33.00,303,203,HR,"Series C",148
+751,Clinc,"San Francisco Bay Area",USA,350,2023-12-18,10.00,3500,3150,Energy,Post-IPO,116
+752,Checkout.com,"Sao Paulo",Brazil,50,2022-10-24,4.00,1250,1200,Other,"Series D",336
+753,Cloudinary,"New York City",USA,100,2023-01-15,30.00,333,233,Marketing,"Series C",104
+754,Checkr,"Menlo Park",USA,400,2020-06-29,7.00,5714,5314,Construction,"Series E",1300
+755,Checkr,"New Delhi",India,100,2020-05-18,20.00,500,400,"Real Estate","Series H",19500
+756,Bullhorn,Mumbai,India,50,2023-08-29,20.00,250,200,Healthcare,Unknown,14
+757,Chegg,Auckland,"New Zealand",200,2023-07-28,31.00,645,445,Transportation,Unknown,46
+758,Cloudinary,"San Francisco Bay Area",USA,1300,2023-02-07,15.00,8667,7367,Other,Post-IPO,276
+759,Bullhorn,"New York City",USA,100,2024-01-10,3.00,3333,3233,Food,Acquired,280
+760,Clue,Montreal,Canada,86,2023-04-05,18.00,478,392,Recruiting,"Series B",150
+761,Clue,"San Francisco",USA,400,2023-02-16,20.00,2000,1600,Other,Acquired,62
+762,Chegg,"Los Angeles",USA,80,2023-10-06,5.00,1600,1520,Finance,"Private Equity â€¦",54
+763,Chegg,Montreal,Canada,87,2023-09-12,3.00,2900,2813,Education,"Series D",389
+764,Bullish,"San Francisco Bay Area",USA,45,2022-06-16,15.00,300,255,"Real Estate","Series D",178
+765,Chegg,Toronto,Canada,38,2023-06-21,40.00,95,57,Food,"Series C",134
+766,Clutch,"San Francisco",USA,120,2022-06-22,20.00,600,480,Education,"Series E",461
+767,Bullish,"Tel Aviv",Israel,12,2022-08-16,9.00,133,121,Data,"Series D",205
+768,Clutch,Toronto,Canada,29,2022-04-26,34.00,85,56,Retail,"Series A",27
+769,Bumble,"Sao Paulo",Brazil,467,2020-04-03,33.00,1415,948,Fitness,"Series D",300
+770,Bumble,Stockholm,Sweden,1600,2025-09-23,20.00,8000,6400,Energy,Unknown,14
+771,CNET,"Los Angeles",USA,320,2023-04-27,11.00,2909,2589,Data,Post-IPO,613
+772,CNET,"New York City",USA,40,2023-01-23,10.00,400,360,Marketing,Post-IPO,295
+773,Bungie,Seattle,USA,131,2023-09-26,33.00,397,266,Logistics,"Series D",263
+774,Code42,"San Francisco",USA,300,2020-05-20,18.00,1667,1367,Logistics,"Series F",530
+775,Code42,"Sao Paulo",Brazil,4,2020-04-24,100.00,4,0,Education,"Series A",2
+776,"Coding Dojo","Los Angeles",USA,400,2020-03-29,39.00,1026,626,Recruiting,"Series B",219
+777,Burlingame,Burlingame,USA,48,2023-04-03,11.00,436,388,Finance,"Series E",339
+778,"Coding Dojo",Stockholm,Sweden,80,2024-02-15,13.00,615,535,Consumer,Post-IPO,312
+779,Burlington,Burlington,USA,47,2022-12-02,15.00,313,266,Finance,"Series C",184
+780,Boston,Boston,USA,55,2022-08-21,10.00,550,495,Security,Acquired,21
+781,BusBud,"San Francisco",USA,161,2020-04-15,16.00,1006,845,Finance,"Series E",447
+782,Cogito,"Los Angeles",USA,21,2020-04-08,10.00,210,189,Marketing,"Series C",106
+783,Boston,Boston,USA,59,2020-04-02,25.00,236,177,HR,Acquired,65
+784,BusBud,"San Francisco Bay Area",USA,4250,2024-02-14,5.00,85000,80750,Infrastructure,Post-IPO,2
+785,Cogito,"New York City",USA,78,2020-04-21,21.00,371,293,Retail,Post-IPO,339
+786,Cohere,Pleasanton,USA,28,2023-09-29,12.00,233,205,Finance,"Series B",123
+787,Buser,Jakarta,Indonesia,70,2022-11-04,8.00,875,805,Finance,Unknown,180
+788,Coinbase,Bengaluru,India,100,2023-01-27,6.00,1667,1567,Retail,"Series E",390
+789,Boston,Boston,USA,59,2022-11-14,22.00,268,209,Healthcare,Post-IPO,409
+790,Buser,"San Francisco",USA,45,2022-07-12,12.00,375,330,Marketing,"Series B",153
+791,Coinbase,Boston,USA,85,2023-02-13,7.00,1214,1129,Consumer,Acquired,30
+792,Boston,Boston,USA,59,2022-11-16,22.00,268,209,Healthcare,Post-IPO,409
+793,Boston,Boston,USA,60,2020-04-03,13.00,462,402,Retail,"Series D",97
+794,"Bustle Digital Group",Portland,USA,50,2020-03-26,10.00,500,450,Infrastructure,"Series F",149
+795,Coinbase,"Los Angeles",USA,20,2022-06-10,8.00,250,230,Finance,"Series C",175
+796,Boston,Boston,USA,60,2020-05-07,12.00,500,440,Finance,"Series E",263
+797,Coinbase,Singapore,Singapore,100,2022-06-20,12.00,833,733,Retail,"Series E",1000
+798,Boston,Boston,USA,60,2022-12-08,5.00,1200,1140,Marketing,Post-IPO,115
+799,Boston,Boston,USA,65,2022-11-08,50.00,130,65,Healthcare,"Series B",257
+800,Boston,Boston,USA,65,2022-12-05,10.00,650,585,Security,"Series E",265
+801,CoinJar,Boulder,USA,100,2023-01-18,12.00,833,733,Security,"Series F",416
+802,CoinJar,"San Francisco Bay Area",USA,200,2023-01-05,50.00,400,200,Other,Post-IPO,326
+803,Chennai,Chennai,India,70,2020-05-21,35.00,200,130,Travel,"Series A",3
+804,Coinsquare,"Los Angeles",USA,140,2022-08-31,16.00,875,735,Healthcare,Post-IPO,910
+805,Chennai,Chennai,India,80,2022-06-20,30.00,267,187,Food,Unknown,12
+806,Boston,Boston,USA,70,2022-05-11,7.00,1000,930,Data,"Series G",1000
+807,Coinsquare,Seattle,USA,13,2022-08-20,3.00,433,420,Marketing,"Series D",187
+808,Boston,Boston,USA,70,2022-06-23,9.00,778,708,Security,"Series F",500
+809,Columbus,Columbus,USA,16,2022-06-17,20.00,80,64,Security,"Series B",49
+810,Columbus,Columbus,USA,31,2023-02-08,8.00,388,357,Healthcare,"Series E",168
+811,Chennai,Chennai,India,300,2023-07-11,12.00,2500,2200,Food,Unknown,363
+812,Columbus,Columbus,USA,137,2022-11-09,20.00,685,548,Finance,Post-IPO,527
+813,Chester,Chester,"United Kingdom",40,2023-03-22,16.00,250,210,Transportation,Post-IPO,376
+814,Boston,Boston,USA,70,2023-05-03,10.00,700,630,Marketing,Post-IPO,145
+815,Columbus,Columbus,USA,215,2023-02-09,35.00,614,399,Healthcare,"Series H",856
+816,"Chia Network",Baltimore,USA,50,2023-06-06,9.00,556,506,Security,"Series D",364
+817,Columbus,Columbus,USA,450,2022-07-19,31.00,1452,1002,Healthcare,"Series H",856
+818,"Chia Network",Nairobi,Kenya,283,2023-08-20,33.00,858,575,Food,"Series C",157
+819,Boston,Boston,USA,85,2023-02-13,7.00,1214,1129,Consumer,Acquired,30
+820,Community,Hamburg,Germany,14,2022-06-30,10.00,140,126,Finance,"Series A",22
+821,Chicago,Chicago,USA,6,2020-04-24,21.00,29,23,Consumer,Unknown,12
+822,Boston,Boston,USA,90,2022-11-16,11.00,818,728,Retail,"Series F",452
+823,Community,"San Francisco",USA,73,2022-08-04,33.00,221,148,Education,"Series A",20
+824,"Community Gamiâ€¦",Bengaluru,India,100,2023-02-21,20.00,500,400,Crypto,Unknown,451
+825,Chicago,Chicago,USA,10,2020-04-06,10.00,100,90,HR,"Private Equity",50
+826,"Community Gaming",Boston,USA,290,2023-05-09,3.00,9667,9377,Security,Post-IPO,35
+827,Compass,Berlin,Germany,18,2022-06-29,30.00,60,42,Other,"Series B",25
+828,Chicago,Chicago,USA,10,2020-04-06,10.00,100,90,HR,"Private Equity â€¦",50
+829,Compass,Oslo,Norway,65,2024-02-08,15.00,433,368,Energy,Post-IPO,247
+830,Chicago,Chicago,USA,17,2020-06-30,5.00,340,323,Marketing,"Series C",101
+831,Compass,Seattle,USA,48,2024-01-16,20.00,240,192,Transportation,Acquired,9
+832,Chicago,Chicago,USA,19,2020-04-24,30.00,63,44,Marketing,"Series A",7
+833,Compass,"Tel Aviv",Israel,11,2022-09-12,28.00,39,28,HR,"Series A",17
+834,Chicago,Chicago,USA,26,2022-09-23,4.00,650,624,Food,"Series C",166
+835,"Bustle Digital Group","San Francisco",USA,235,2020-04-14,10.00,2350,2115,Retail,Post-IPO,358
+836,Compete,Boston,USA,198,2022-10-24,14.00,1414,1216,Security,"Series F",849
+837,Chicago,Chicago,USA,36,2020-05-12,17.00,212,176,HR,"Series D",52
+838,"Butler Hospitality","New York City",USA,270,2022-05-09,14.00,1929,1659,Transportation,Post-IPO,NULL
+839,Compete,Hamburg,Germany,50,2022-11-15,16.00,313,263,Other,Unknown,28
+840,Confluent,Austin,USA,56,2023-02-01,28.00,200,144,Healthcare,"Series C",215
+841,"Butler Hospitality","Sao Paulo",Brazil,100,2022-02-16,15.00,667,567,Food,"Series D",118
+842,Chicago,Chicago,USA,36,2020-05-12,17.00,212,176,Recruiting,"Series D",52
+843,Button,Boston,USA,130,2020-04-16,13.00,1000,870,Transportation,Post-IPO,1
+844,Confluent,Montreal,Canada,81,2023-04-17,3.00,2700,2619,Education,"Series D",389
+845,Chicago,Chicago,USA,40,2020-06-03,21.00,190,150,Transportation,"Series D",117
+846,ConsenSys,Atlanta,USA,150,2020-04-09,10.00,1500,1350,Legal,"Series B",410
+847,Boston,Boston,USA,95,2022-07-21,15.00,633,538,Fitness,"Series F",404
+848,ConsenSys,Jakarta,Indonesia,360,2023-02-12,11.00,3273,2913,Transportation,"Series B",138
+849,Chicago,Chicago,USA,40,2023-02-21,4.00,1000,960,Marketing,"Series B",52
+850,ConsenSys,"San Francisco",USA,6,2020-03-13,75.00,8,2,Consumer,Seed,1
+851,Button,Mumbai,India,45,2020-04-01,9.00,500,455,Finance,Unknown,143
+852,Chicago,Chicago,USA,50,2020-03-19,50.00,100,50,Travel,"Series B",17
+853,ConsenSys,Sunnyvale,USA,1600,2023-02-09,20.00,8000,6400,Consumer,Acquired,6
+854,Buy.com,Chicago,USA,17,2020-06-30,5.00,340,323,Marketing,"Series C",101
+855,Consider.co,"San Francisco Bay Area",USA,13,2020-03-26,100.00,13,0,Other,Seed,5
+856,Consider.co,Saskatoon,Canada,68,2024-01-11,19.00,358,290,Food,"Series C",131
+857,"Buy.com / Rakuten","San Francisco Bay Area",USA,3000,2020-05-18,13.00,23077,20077,Transportation,Post-IPO,24700
+858,ContaAzul,"Ann Arbor",USA,40,2020-04-09,32.00,125,85,Support,"Series B",59
+859,BuzzFeed,Chester,"United Kingdom",40,2023-03-22,16.00,250,210,Transportation,Post-IPO,376
+860,ContaAzul,Guadalajara,Mexico,90,2020-04-20,30.00,300,210,Finance,"Series B",38
+861,Dallas,Dallas,USA,260,2024-06-27,4.00,6500,6240,"Real Estate",Acquired,105
+862,BuzzFeed,"New York City",USA,100,2023-01-19,5.00,2000,1900,Retail,Unknown,965
+863,ContraFect,Stockholm,Sweden,35,2022-06-22,10.00,350,315,Transportation,"Series D",515
+864,Dallas,Dallas,USA,1100,2023-05-04,15.00,7333,6233,Travel,Post-IPO,NULL
+865,Boston,Boston,USA,100,2020-03-27,20.00,500,400,Transportation,Acquired,107
+866,ContraFect,"Tel Aviv",Israel,11,2022-09-12,28.00,39,28,HR,"Series A",17
+867,"Dapper Labs","San Francisco Bay Area",USA,300,2023-02-02,5.00,6000,5700,Security,Post-IPO,1200
+868,"Dapper Labs",Toronto,Canada,55,2023-01-10,5.00,1100,1045,Logistics,"Series C",178
+869,Boston,Boston,USA,100,2022-06-01,6.00,1667,1567,Security,"Series F",750
+870,Dark,Bengaluru,India,600,2022-05-21,75.00,800,200,Healthcare,"Series C",97
+871,Boston,Boston,USA,100,2023-01-18,24.00,417,317,Other,Post-IPO,260
+872,Dark,"New York City",USA,70,2020-05-14,10.00,700,630,Marketing,Acquired,116
+873,Boston,Boston,USA,100,2023-05-31,25.00,400,300,Other,"Series B",216
+874,Dataminr,"San Francisco",USA,12,2024-04-16,20.00,60,48,AI,"Series B",75
+875,Boston,Boston,USA,100,2023-09-07,25.00,400,300,Marketing,Acquired,107
+876,Dataminr,"San Francisco Bay Area",USA,90,2023-06-06,5.00,1800,1710,Consumer,"Series F",1300
+877,Boston,Boston,USA,110,2022-06-15,25.00,440,330,Legal,"Series D",213
+878,DataRails,Berlin,Germany,100,2022-11-02,15.00,667,567,Finance,Unknown,188
+879,Boston,Boston,USA,125,2023-11-12,4.00,3125,3000,Travel,Post-IPO,3
+880,DataRails,"San Francisco",USA,180,2022-11-15,9.00,2000,1820,Other,Post-IPO,453
+881,DataRobot,Austin,USA,120,2020-03-30,25.00,480,360,Energy,"Series D",423
+882,Boston,Boston,USA,130,2020-04-16,13.00,1000,870,Transportation,Post-IPO,1
+883,DataRobot,"New York City",USA,170,2022-06-02,25.00,680,510,Finance,"Series E",286
+884,Convene,Mumbai,India,45,2020-04-01,9.00,500,455,Finance,Unknown,143
+885,DataRobot,"San Francisco",USA,23,2022-06-03,22.00,105,82,Consumer,"Series C",108
+886,Convene,"New York City",USA,50,2020-04-07,7.00,714,664,Media,Unknown,190
+887,DataRobot,"San Francisco Bay Area",USA,100,2022-10-11,30.00,333,233,"Real Estate","Series C",217
+888,BuzzFeed,"San Francisco Bay Area",USA,156,2022-11-02,12.00,1300,1144,Finance,"Series G",2300
+889,Boston,Boston,USA,130,2022-08-09,25.00,520,390,Healthcare,Post-IPO,533
+890,DataRobot,Stockholm,Sweden,100,2022-03-17,10.00,1000,900,Media,Post-IPO,275
+891,Boston,Boston,USA,131,2024-08-26,100.00,131,NULL,Healthcare,"Series A",213
+892,Deadspin,Toronto,Canada,35,2024-02-02,7.00,500,465,Education,"Series E",234
+893,Boston,Boston,USA,140,2022-08-05,10.00,1400,1260,Consumer,Acquired,30
+894,DealShare,Melbourne,Australia,90,2023-04-18,9.00,1000,910,HR,"Series F",257
+895,BuzzFeed,"Tel Aviv",Israel,80,2023-05-09,6.00,1333,1253,Other,Post-IPO,91
+896,DealShare,"San Francisco",USA,200,2023-02-25,10.00,2000,1800,Consumer,Post-IPO,12900
+897,Boston,Boston,USA,140,2023-02-01,4.00,3500,3360,Consumer,Post-IPO,719
+898,Dealtale,Nairobi,Kenya,350,2023-07-26,25.00,1400,1050,Retail,"Series C",103
+899,Byju's,"San Francisco Bay Area",USA,150,2022-10-12,10.00,1500,1350,Sales,"Series E",426
+900,Boston,Boston,USA,140,2023-10-19,9.00,1556,1416,Sales,Acquired,32
+901,Dealtale,Norwalk,USA,3000,2024-01-03,15.00,20000,17000,Hardware,Post-IPO,27
+902,"Deep Instict","Los Angeles",USA,80,2023-03-07,15.00,533,453,Fitness,"Series C",619
+903,C2FO,Miami,USA,1000,2024-01-10,12.00,8333,7333,Infrastructure,Acquired,20
+904,"Deep Instict","San Francisco",USA,8000,2023-01-04,10.00,80000,72000,Sales,Post-IPO,65
+905,Boston,Boston,USA,150,2024-04-19,8.00,1875,1725,Product,"Series G",802
+906,Deepgram,"San Francisco",USA,500,2024-01-09,35.00,1428,928,Consumer,Acquired,35
+907,Deepgram,Tallinn,Estonia,101,2023-08-23,21.00,481,380,Security,"Series C",192
+908,Boston,Boston,USA,160,2022-09-13,75.00,213,53,Healthcare,Post-IPO,445
+909,C2FO,"San Francisco Bay Area",USA,8,2023-08-24,3.00,267,259,Marketing,Unknown,4
+910,DeepVerge,"New York City",USA,475,2023-03-06,8.00,5938,5463,Media,Post-IPO,525
+911,DeepVerge,"San Francisco",USA,15,2023-12-11,33.00,45,30,Finance,"Series C",302
+912,C2FO,"San Francisco Bay Area",USA,3700,2022-11-04,50.00,7400,3700,Consumer,Post-IPO,12900
+913,Boston,Boston,USA,168,2024-02-05,100.00,168,NULL,Retail,Acquired,119
+914,Deepwatch,Mumbai,India,40,2023-11-30,36.00,111,71,Consumer,Acquired,52
+915,Deepwatch,"New York City",USA,75,2023-01-04,11.00,682,607,Media,Post-IPO,166
+916,Boston,Boston,USA,168,2024-02-05,100.00,168,0,Retail,Acquired,119
+917,Deliv,Boston,USA,13,2020-04-17,37.00,35,22,Security,Unknown,1
+918,C2FO,Singapore,Singapore,110,2022-12-01,10.00,1100,990,Retail,"Private Equity",372
+919,Boston,Boston,USA,170,2023-04-07,92.00,185,15,Healthcare,Post-IPO,409
+920,Deliv,"Los Angeles",USA,39,2020-06-04,14.00,279,240,Product,"Series A",29
+921,Convoy,Dubai,"United Arabian Emirates",50,2022-06-28,10.00,500,450,Healthcare,"Series D",71
+922,Deliveroo,"San Francisco Bay Area",USA,43,2022-12-10,25.00,172,129,Education,"Series D",240
+923,Convoy,London,"United Kingdom",30,2023-11-30,2.00,1500,1470,Finance,"Series E",700
+924,Deliveroo,"San Francisco Bay Area",USA,982,2020-04-29,17.00,5776,4794,Transportation,Post-IPO,4900
+925,Convoy,"Los Angeles",USA,65,2023-11-02,8.00,813,748,Food,Post-IPO,122
+926,Boston,Boston,USA,198,2022-10-24,14.00,1414,1216,Security,"Series F",849
+927,Deliveroo,"Sao Paulo",Brazil,340,2023-03-03,15.00,2267,1927,"Real Estate",Unknown,788
+928,Convoy,"San Francisco Bay Area",USA,37,2023-08-30,35.00,106,69,Product,Seed,1
+929,Deliveroo,Seattle,USA,32,2020-05-29,60.00,53,21,"Real Estate","Series A",17
+930,Boston,Boston,USA,200,2020-03-27,16.67,1200,1000,Data,"Series E",430
+931,Convoy,Sydney,Australia,75,2022-07-31,100.00,75,NULL,Marketing,"Series B",18
+932,"Deliveroo Australia","San Francisco Bay Area",USA,150,2022-10-25,42.00,357,207,Finance,"Series D",553
+933,Convoy,"Tel Aviv",Israel,20,2024-04-01,44.00,45,25,Security,"Series A",52
+934,Boston,Boston,USA,200,2022-10-26,17.00,1176,976,Security,"Series F",750
+935,Domo,Sunnyvale,USA,90,2020-04-09,34.00,265,175,Data,"Series D",114
+936,"Delivery Hero",Curitiba,Brazil,62,2020-05-27,8.00,775,713,Finance,Unknown,30
+937,Copenhagen,Copenhagen,Denmark,35,2022-10-11,35.00,100,65,Marketing,Seed,2
+938,"Delivery Hero",Gothenburg,Sweden,72,2022-11-17,33.00,218,146,Finance,Unknown,281
+939,Boston,Boston,USA,242,2022-08-23,26.00,930,688,Data,"Series G",1000
+940,DoorDash,"Palo Alto",USA,150,2022-07-07,17.00,882,732,Finance,"Series E",881
+941,Copenhagen,Copenhagen,Denmark,150,2022-09-07,100.00,150,NULL,Food,Unknown,173
+942,"Delivery Hero","San Francisco Bay Area",USA,237,2022-12-07,6.00,3950,3713,Transportation,"Series F",567
+943,Copenhagen,Copenhagen,Denmark,150,2022-09-07,100.00,150,0,Food,Unknown,173
+944,Dell,Toronto,Canada,15,2020-04-06,20.00,75,60,Finance,"Series B",72
+945,DoorDash,"Sao Paulo",Brazil,300,2022-11-28,20.00,1500,1200,Consumer,Unknown,260
+946,Copenhagen,Copenhagen,Denmark,150,2022-11-03,15.00,1000,850,Finance,"Series C",428
+947,Demandbase,Boston,USA,29,2022-09-19,43.00,67,38,Healthcare,"Series B",75
+948,Boston,Boston,USA,290,2023-05-09,3.00,9667,9377,Security,Post-IPO,35
+949,Copia,Bengaluru,India,150,2023-12-05,100.00,150,0,Finance,"Series C",120
+950,Dover,Dover,USA,30,2024-06-05,10.00,300,270,Crypto,Unknown,651
+951,Demandbase,"San Francisco Bay Area",USA,27,2022-09-07,3.00,900,873,Sales,"Series H",143
+952,Boston,Boston,USA,340,2020-04-07,53.00,642,302,Healthcare,Post-IPO,438
+953,Copia,"Washington DC",USA,60,2023-06-09,10.00,600,540,Security,"Series E",288
+954,Denver,Denver,USA,18,2022-12-19,13.00,138,120,"Real Estate",Acquired,4
+955,Cornershop,Denver,USA,172,2023-05-24,12.00,1433,1261,Education,"Series F",643
+956,Denver,Denver,USA,23,2020-03-26,20.00,115,92,Retail,"Series B",47
+957,Dover,Dover,USA,76,2022-11-16,23.00,330,254,Other,"Series B",56
+958,Denver,Denver,USA,30,2024-04-26,25.00,120,90,Aerospace,"Series B",158
+959,Cornershop,"New York City",USA,46,2023-07-25,15.00,307,261,Security,Unknown,322
+960,Boston,Boston,USA,350,2024-01-29,31.00,1129,779,Consumer,Post-IPO,30
+961,Denver,Denver,USA,49,2024-01-16,17.00,288,239,Healthcare,"Series C",183
+962,Corvallis,Corvallis,USA,154,2024-01-08,28.00,550,396,Energy,Post-IPO,470
+963,Dover,"New York City",USA,500,2022-10-06,12.00,4167,3667,Fitness,Post-IPO,1900
+964,Boston,Boston,USA,400,2020-04-07,44.00,909,509,Food,"Series D",319
+965,Denver,Denver,USA,50,2023-07-19,6.00,833,783,Travel,Post-IPO,179
+966,"Coterie Insurance",Hayward,USA,150,2022-06-08,15.00,1000,850,Healthcare,"Series D",255
+967,Dover,"Tel Aviv",Israel,35,2022-07-06,27.00,130,95,Data,"Series C",64
+968,Denver,Denver,USA,67,2023-07-19,24.00,279,212,Finance,"Series B",111
+969,Boston,Boston,USA,400,2024-06-20,35.00,1143,743,Healthcare,Post-IPO,2
+970,"Coterie Insurance","San Francisco Bay Area",USA,300,2022-06-23,3.00,10000,9700,Media,Post-IPO,121900
+971,Denver,Denver,USA,75,2023-02-27,2.00,3750,3675,Data,Post-IPO,3000
+972,Doximity,"New York City",USA,46,2023-07-25,15.00,307,261,Security,Unknown,322
+973,"Course Hero","San Diego",USA,326,2023-04-28,30.00,1087,761,Healthcare,Post-IPO,899
+974,Boston,Boston,USA,400,2024-06-24,35.00,1143,743,Healthcare,Post-IPO,100
+975,"Course Hero","San Francisco Bay Area",USA,500,2023-04-27,16.00,3125,2625,Other,Post-IPO,1700
+976,Doximity,"Tel Aviv",Israel,60,2024-01-03,15.00,400,340,Security,"Series C",632
+977,Boston,Boston,USA,470,2023-08-08,18.00,2611,2141,Security,Post-IPO,89
+978,Cowbell,"San Diego",USA,90,2023-06-28,10.00,900,810,Other,"Series C",537
+979,DraftKings,"San Francisco",USA,89,2023-02-03,20.00,445,356,Crypto,Unknown,10
+980,Cowbell,Stockholm,Sweden,200,2023-06-05,2.00,9400,9200,Media,Post-IPO,2100
+981,Crayon,London,"United Kingdom",55,2024-02-20,25.00,220,165,Retail,"Series A",5
+982,DraftKings,"San Francisco Bay Area",USA,30,2022-12-08,15.00,200,170,Security,"Series C",153
+983,Crayon,"Los Angeles",USA,406,2020-03-27,30.00,1353,947,Transportation,"Series D",623
+984,Boston,Boston,USA,500,2023-01-31,7.00,7143,6643,Marketing,Post-IPO,100
+985,Dragos,Calgary,Canada,21,2023-10-19,28.00,75,54,Data,"Series A",16
+986,Denver,Denver,USA,87,2020-04-07,15.00,580,493,Retail,"Series D",85
+987,Boston,Boston,USA,550,2024-02-15,10.00,5500,4950,Food,Post-IPO,962
+988,Dragos,Toronto,Canada,26,2022-12-20,40.00,65,39,Finance,"Series A",10
+989,Denver,Denver,USA,109,2023-01-18,12.00,908,799,Travel,Post-IPO,179
+990,Boston,Boston,USA,870,2022-08-19,5.00,17400,16530,Retail,Post-IPO,NULL
+991,Denver,Denver,USA,130,2020-03-16,22.00,591,461,Travel,"Series C",79
+992,Drata,"San Francisco Bay Area",USA,86,2023-10-02,40.00,215,129,Finance,"Series B",50
+993,Denver,Denver,USA,137,2020-05-26,100.00,137,NULL,Education,Acquired,108
+994,Drift,Bengaluru,India,1100,2024-01-08,5.00,22000,20900,Retail,Acquired,13
+995,Denver,Denver,USA,137,2020-05-26,100.00,137,0,Education,Acquired,108
+996,Denver,Denver,USA,164,2023-05-29,14.00,1171,1007,Travel,"Series F",224
+997,Drift,"San Francisco Bay Area",USA,15,2023-12-11,33.00,45,30,Finance,"Series C",302
+998,Denver,Denver,USA,172,2023-05-24,12.00,1433,1261,Education,"Series F",643
+999,"Drip Capital",Austin,USA,2200,2023-03-22,15.00,14667,12467,HR,Acquired,5
+1000,Denver,Denver,USA,175,2023-09-12,20.00,875,700,Travel,"Series F",224
