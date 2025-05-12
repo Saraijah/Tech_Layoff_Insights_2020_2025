@@ -6,6 +6,9 @@ We used **SQL** and **Power Query** to clean and transform the data, and **Micro
 
 Our insights can assist job seekers, industry analysts, and stakeholders in understanding the shifting dynamics of the tech landscape and making more informed decisions.
 
+
+![tech_layoffs_2020_2024](https://github.com/user-attachments/assets/4fba0e38-1784-4777-a4bc-23c00ab05e4c)
+
 ---
 
 ## Key Insights
@@ -13,7 +16,6 @@ Our insights can assist job seekers, industry analysts, and stakeholders in unde
 ### No Statistical Outliers Detected
 Using the Interquartile Range (IQR) method, no outliers were found in the dataset. Even though 2023 had the highest number of layoffs, it falls within the expected range. A data point would need to be below -119,531.00 or above 186,059.50 to be considered an outlier.
 
-![tech_layoffs_2020_2024](https://github.com/user-attachments/assets/4fba0e38-1784-4777-a4bc-23c00ab05e4c)
 
 ---
 
