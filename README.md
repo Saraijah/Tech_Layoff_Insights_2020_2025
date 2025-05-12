@@ -1,4 +1,4 @@
-# Tech Layoffs (2020–2024) Analysis
+# Tech Layoffs (2020–2025) Analysis
 
 This project analyzes real-world layoff data from 2020 to 2024, sourced from [Kaggle](https://www.kaggle.com/). The goal is to explore trends in the tech job market during and after the COVID-19 pandemic.
 
@@ -59,7 +59,7 @@ There is a strong positive correlation between the amount of funding a company h
 
 ## Conclusion
 
-This analysis reveals important trends in the tech job market from 2020 to 2024. The data shows that:
+This analysis reveals important trends in the tech job market from 2020 to 2025. The data shows that:
 - 2023 was the peak year for layoffs.
 - January was consistently the worst month for layoffs.
 - Well-funded companies aren’t immune to workforce cuts.
